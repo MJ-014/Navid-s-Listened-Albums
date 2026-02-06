@@ -2188,5 +2188,329 @@
         "album": "The Chocolate Wheelchair Album",
         "date": "2003-10-27",
         "cover": "https://m.media-amazon.com/images/I/61SrezEPYJL.jpg"
+    },
+    {
+        "artist": "100 gecs",
+        "album": "Snake Eyes",
+        "date": "2022-12-02",
+        "cover": "https://m.media-amazon.com/images/I/61jT80u3nML.jpg"
+    },
+    {
+        "artist": "Alias Conrad Coldwood",
+        "album": "OFF Original Soundtrack",
+        "date": "2008-05-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/87155b893e4d645552ff21f52c84913e"
+    },
+    {
+        "artist": "Anamanaguchi",
+        "album": "Scott Pilgrim vs. the World The Game (Original Videogame Soundtrack)",
+        "date": "2010-08-24",
+        "cover": "https://m.media-amazon.com/images/I/71dzQsv74tL.jpg"
+    },
+    {
+        "artist": "Boards of Canada",
+        "album": "The Campfire Headphase",
+        "date": "2005-10-17",
+        "cover": "https://m.media-amazon.com/images/I/71QS3sz7b4L.jpg"
+    },
+    {
+        "artist": "Brent Kennedy",
+        "album": "The Binding of Isaac - Piano Collection",
+        "date": "2013-02-01",
+        "cover": "https://f4.bcbits.com/img/a0420603385_0.jpg"
+    },
+    {
+        "artist": "clipping.",
+        "album": "CLPPNG",
+        "date": "2014-06-10",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/42b2771452f3230e7bb679a12fbf588b"
+    },
+    {
+        "artist": "clipping.",
+        "album": "Splendor & Misery",
+        "date": "2016-09-09",
+        "cover": "https://m.media-amazon.com/images/I/81fa7cKjFCL.jpg"
+    },
+    {
+        "artist": "clipping.",
+        "album": "There Existed an Addiction to Blood",
+        "date": "2019-10-18",
+        "cover": "https://m.media-amazon.com/images/I/71oFCXzt3SL.jpg"
+    },
+    {
+        "artist": "Daft Punk",
+        "album": "Human After All (Remixes)",
+        "date": "2006-03-29",
+        "cover": "https://m.media-amazon.com/images/I/71OrEtY0AOL.jpg"
+    },
+    {
+        "artist": "Danny Baranowsky",
+        "album": "Super Meat Boy! - Digital Special Edition Soundtrack",
+        "date": "2010-10-27",
+        "cover": "https://m.media-amazon.com/images/I/71Ip1RgVi7L.jpg"
+    },
+    {
+        "artist": "Danny Baranowsky",
+        "album": "The Binding of Isaac",
+        "date": "2011-09-28",
+        "cover": "https://m.media-amazon.com/images/I/71Sr3JyT+IL.jpg"
+    },
+    {
+        "artist": "David Bowie",
+        "album": "Space Oddity",
+        "date": "1969-11-14",
+        "cover": "https://m.media-amazon.com/images/I/8149VAs8C2L.jpg"
+    },
+    {
+        "artist": "David Szymanski",
+        "album": "Iron Lung OST",
+        "date": "2022-03-10",
+        "cover": "https://m.media-amazon.com/images/I/71lZMWKhsyL.jpg"
+    },
+    {
+        "artist": "Death Grips",
+        "album": "Bottomless Pit",
+        "date": "2016-05-06",
+        "cover": "https://m.media-amazon.com/images/I/71n405txDtL.jpg"
+    },
+    {
+        "artist": "Death Grips",
+        "album": "Fashion Week",
+        "date": "2015-01-04",
+        "cover": "https://m.media-amazon.com/images/I/81GILaIoZYL.jpg"
+    },
+    {
+        "artist": "Death Grips",
+        "album": "Interview 2016",
+        "date": "2016-03-22",
+        "cover": "https://m.media-amazon.com/images/I/612hCmfrtaL.jpg"
+    },
+    {
+        "artist": "Death Grips",
+        "album": "The Powers That B",
+        "date": "2015-03-31",
+        "cover": "https://m.media-amazon.com/images/I/81la5XivRxL.jpg"
+    },
+    {
+        "artist": "Inverse Phase",
+        "album": "The Chiping of Isaac",
+        "date": "The Chiping of Isaa",
+        "cover": "https://f4.bcbits.com/img/a1141131683_0.jpg"
+    },
+    {
+        "artist": "Jack Stauber",
+        "album": "Finite Form",
+        "date": "2013-03-18",
+        "cover": "https://m.media-amazon.com/images/I/91Gbzf4A5ZL.jpg"
+    },
+    {
+        "artist": "Jack Stauber",
+        "album": "Pop Food",
+        "date": "2017-03-25",
+        "cover": "https://m.media-amazon.com/images/I/91r7+cMjt6L.jpg"
+    },
+    {
+        "artist": "Jack Stauber",
+        "album": "Viator",
+        "date": "2015-09-18",
+        "cover": "https://m.media-amazon.com/images/I/713qkYfLCDL.jpg"
+    },
+    {
+        "artist": "Klaxons",
+        "album": "Myths Of The Near Future",
+        "date": "2007-01-29",
+        "cover": "https://m.media-amazon.com/images/I/81YxSCKrtyL.jpg"
+    },
+    {
+        "artist": "Kristofer Maddigan",
+        "album": "Cuphead Original Soundtrack",
+        "date": "2017-11-15",
+        "cover": "https://m.media-amazon.com/images/I/61WAhYuI55L.jpg"
+    },
+    {
+        "artist": "LemKuuja",
+        "album": "CHEESECAKE+",
+        "date": "2018-06-30",
+        "cover": "https://m.media-amazon.com/images/I/81T1mkAK1DL.jpg"
+    },
+    {
+        "artist": "Miracle Musical",
+        "album": "Hawaii Part II",
+        "date": "2012-12-12",
+        "cover": "https://m.media-amazon.com/images/I/91KR8pVf1WL.jpg"
+    },
+    {
+        "artist": "Miracle Musical",
+        "album": "Hawaii Partii",
+        "date": "2015-12-31",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/3493a155e597e7371cebac78beee999d"
+    },
+    {
+        "artist": "Mother Mother",
+        "album": "O My Heart",
+        "date": "2008-09-23",
+        "cover": "https://m.media-amazon.com/images/I/81dM+UxLQuL.jpg"
+    },
+    {
+        "artist": "ONE OK ROCK",
+        "album": "Luxury Disease",
+        "date": "2022-09-09",
+        "cover": "https://m.media-amazon.com/images/I/81Yn6yAlcSL.jpg"
+    },
+    {
+        "artist": "Renard",
+        "album": "Rainbow Dash Likes Girls",
+        "date": "2011-04-16",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/0654604f4ee51e8f4719d0076365fd6a"
+    },
+    {
+        "artist": "Satoshi Aikawa",
+        "album": "Super Mario Series for Guitar",
+        "date": "2010-07-10",
+        "cover": "https://media.vgm.io/albums/66/19866/19866-1287931190.jpg"
+    },
+    {
+        "artist": "Satoshi Aikawa",
+        "album": "Super Mario Series for Ukulele",
+        "date": "2013-09-29",
+        "cover": "https://media.vgm.io/albums/71/55417/55417-1445686153.jpg"
+    },
+    {
+        "artist": "Satoshi Aikawa",
+        "album": "The Legend of Zelda Series for Guitar",
+        "date": "2010-07-18",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/7ad38a38caa3a27ddeba612e272aa9b6"
+    },
+    {
+        "artist": "Savant",
+        "album": "Slasher",
+        "date": "2018-10-26",
+        "cover": "https://m.media-amazon.com/images/I/71fApVAiAWL.jpg"
+    },
+    {
+        "artist": "SBFR",
+        "album": "NTD MELODIES CONNECTION β",
+        "date": "",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/eaa98aeacc3246f2916648089c191c9c"
+    },
+    {
+        "artist": "SBFR",
+        "album": "SBFR-0036 - ACTION COMMAND GAIDEN SUGOIYO! MAKIFU-SAN",
+        "date": "2008-12-29",
+        "cover": "https://media.vgm.io/albums/80/11608/11608-1231296883.jpg"
+    },
+    {
+        "artist": "SBFR",
+        "album": "SUPER RETRO WORLD -WE LUV 16BIT GAMES​-​",
+        "date": "2022-02-23",
+        "cover": "https://f4.bcbits.com/img/a0034700014_0.jpg"
+    },
+    {
+        "artist": "SBFR",
+        "album": "We Bros eXtend",
+        "date": "2013-04-29",
+        "cover": "https://f4.bcbits.com/img/a3664261153_0.jpg"
+    },
+    {
+        "artist": "SBFR",
+        "album": "We Bros X4",
+        "date": "2022-02-17",
+        "cover": "https://f4.bcbits.com/img/a2997743448_0.jpg"
+    },
+    {
+        "artist": "SGFR",
+        "album": "Tactical Stealth Arrangements",
+        "date": "2022-12-04",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/40b5cb3eee513b900ecb86a8a3e0c67f"
+    },
+    {
+        "artist": "she",
+        "album": "Coloris",
+        "date": "2009-01-21",
+        "cover": "https://m.media-amazon.com/images/I/71v35BCp3kL.jpg"
+    },
+    {
+        "artist": "she",
+        "album": "Orion",
+        "date": "2009-09-14",
+        "cover": "https://m.media-amazon.com/images/I/81Wv20tl2LL.jpg"
+    },
+    {
+        "artist": "Simon Viklund",
+        "album": "Payday - The Heist OST",
+        "date": "2012-10-18",
+        "cover": "https://f4.bcbits.com/img/a4017433719_0.jpg"
+    },
+    {
+        "artist": "Soichi Terada",
+        "album": "Ape Escape Originape Soundtracks",
+        "date": "2011-11-18",
+        "cover": "https://m.media-amazon.com/images/I/71XK3PCuy7L.jpg"
+    },
+    {
+        "artist": "Soichi Terada",
+        "album": "Ape Escape 3 - Originape Soundtracks",
+        "date": "2012-05-28",
+        "cover": "https://m.media-amazon.com/images/I/71ezdVPadJL.jpg"
+    },
+    {
+        "artist": "StijnvanWakeren",
+        "album": "Thank you Cave Story",
+        "date": "2020-08-28",
+        "cover": "https://f4.bcbits.com/img/a2179508030_0.jpg"
+    },
+    {
+        "artist": "System of a Down",
+        "album": "Hypnotize",
+        "date": "2005-11-22",
+        "cover": "https://m.media-amazon.com/images/I/81EwQyPSF6L.jpg"
+    },
+    {
+        "artist": "System of a Down",
+        "album": "Mezmerize",
+        "date": "2005-05-17",
+        "cover": "https://m.media-amazon.com/images/I/71H4cu-MTvL.jpg"
+    },
+    {
+        "artist": "System of a Down",
+        "album": "Toxicity",
+        "date": "2001-09-04",
+        "cover": "https://m.media-amazon.com/images/I/81IXs0GHeGL.jpg"
+    },
+    {
+        "artist": "Various",
+        "album": "Metal Gear Solid The Original Trilogy Vocal Tracks",
+        "date": "2011-01-01",
+        "cover": "https://m.media-amazon.com/images/I/81CYXgJ+6kL.jpg"
+    },
+    {
+        "artist": "Various",
+        "album": "Super Smash Bros. Melee Smashing… Live!",
+        "date": "August 27th, 2002",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/50014568d1b327072be67c14b154770f"
+    },
+    {
+        "artist": "Various",
+        "album": "The Sound of Kirby Café",
+        "date": "2016-08-03",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/6923f2bdc8fdf84f59fb569d82276e3c"
+    },
+    {
+        "artist": "Various",
+        "album": "The Sound of Kirby Café",
+        "date": "2019-12-12",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/8f62d890fdf586de4caa5a22913986d4"
+    },
+    {
+        "artist": "Various",
+        "album": "Toy Music ~Dancing Super Mario Brothers~",
+        "date": "1988-09-15",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/3d2fde19cb66baf78c20538c9bd6268a"
+    },
+    {
+        "artist": "William Reid",
+        "album": "Tower Unite Original Soundtrack",
+        "date": "2016-04-13",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/42beadd5e2ba9775a338c76927570850"
     }
 ]
