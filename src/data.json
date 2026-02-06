@@ -2872,5 +2872,83 @@
         "album": "Video Club",
         "date": "2009-09-21",
         "cover": "https://m.media-amazon.com/images/I/61Ywm86S8GL.jpg"
+    },
+    {
+        "artist": "Aphex Twin",
+        "album": "Selected Ambient Works 85-92",
+        "date": "1992-11-09",
+        "cover": "https://m.media-amazon.com/images/I/61r2joxGxWL.jpg"
+    },
+    {
+        "artist": "Aphex Twin",
+        "album": "Selected Ambient Works Volume II",
+        "date": "1994-03-07",
+        "cover": "https://m.media-amazon.com/images/I/71T-o4Me5mL.jpg"
+    },
+    {
+        "artist": "Death Grips",
+        "album": "Live From Death Valley",
+        "date": "2011-06-28",
+        "cover": "https://m.media-amazon.com/images/I/81Rmg7W0ZpL.jpg"
+    },
+    {
+        "artist": "Death Grips",
+        "album": "Steroids (Crouching Tiger Hidden Gabber Megamix)",
+        "date": "2017-05-22",
+        "cover": "https://m.media-amazon.com/images/I/81iZ9F9q2KL.jpg"
+    },
+    {
+        "artist": "Kendrick Lamar",
+        "album": "Overly Dedicated",
+        "date": "2010-09-14",
+        "cover": "https://m.media-amazon.com/images/I/71Gq8uor3jL.jpg"
+    },
+    {
+        "artist": "Kendrick Lamar",
+        "album": "Section.80",
+        "date": "2011-07-02",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/4d140d8d8dde411e96d2c6168f4f083f"
+    },
+    {
+        "artist": "Kendrick Lamar",
+        "album": "good kid, m.A.A.d city",
+        "date": "2012-10-22",
+        "cover": "https://m.media-amazon.com/images/I/81JojYV+fVL.jpg"
+    },
+    {
+        "artist": "Konishi Kayo, Kondoo Yukio",
+        "album": "Elfen Lied Original Soundtrack",
+        "date": "2004-10-21",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/764c7ceff91447aac75a9c91843405be"
+    },
+    {
+        "artist": "Madvillain",
+        "album": "Madvillainy",
+        "date": "2004-03-24",
+        "cover": "https://m.media-amazon.com/images/I/71pMQ0VH46S.jpg"
+    },
+    {
+        "artist": "Tyler, the Creator",
+        "album": "Cherry Bomb",
+        "date": "2015-04-13",
+        "cover": "https://m.media-amazon.com/images/I/71nJk1uRkGL.jpg"
+    },
+    {
+        "artist": "Tyler, the Creator",
+        "album": "Goblin",
+        "date": "2011-05-10",
+        "cover": "https://m.media-amazon.com/images/I/912tDP55jRL.jpg"
+    },
+    {
+        "artist": "Tyler, the Creator",
+        "album": "Wolf",
+        "date": "2013-04-02",
+        "cover": "https://m.media-amazon.com/images/I/81nUTEw77iL.jpg"
+    },
+    {
+        "artist": "Pink Floyd",
+        "album": "Wish You Were Here",
+        "date": "1975-09-12",
+        "cover": "https://m.media-amazon.com/images/I/61JaCaOYudL.jpg"
     }
 ]
