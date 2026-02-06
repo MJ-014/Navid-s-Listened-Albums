@@ -292,5 +292,971 @@
         "album": "Weezer (Blue Album)",
         "date": "1994-05-10",
         "cover": "https://m.media-amazon.com/images/I/61JiCaSojOL.jpg"
+    },
+    {
+        "artist": "009 Sound System",
+        "album": "009 Sound System",
+        "date": "2009-09-29",
+        "cover": "https://m.media-amazon.com/images/I/71D5aKf1F6L.jpg"
+    },
+    {
+        "artist": "100 gecs",
+        "album": "1000 gecs",
+        "date": "2019-05-31",
+        "cover": "https://m.media-amazon.com/images/I/81ZuMHNly-L.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "\"Weird Al\" Yankovic",
+        "date": "1983-04-26",
+        "cover": "https://m.media-amazon.com/images/I/91xWKBhhyGL.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "In 3-D",
+        "date": "1984-02-28",
+        "cover": "https://m.media-amazon.com/images/I/818op4lNjNL.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "Dare to Be Stupid",
+        "date": "1985-06-18",
+        "cover": "https://m.media-amazon.com/images/I/71Psi+OxVzL.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "Polka Party!",
+        "date": "1986-10-21",
+        "cover": "https://m.media-amazon.com/images/I/81qEQFkKqZL.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "Even Worse",
+        "date": "1988-04-12",
+        "cover": "https://m.media-amazon.com/images/I/71KhRxzsLwL.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "Off the Deep End",
+        "date": "1992-04-14",
+        "cover": "https://m.media-amazon.com/images/I/81nmBMTE1iL.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "Alapalooza",
+        "date": "1993-10-05",
+        "cover": "https://m.media-amazon.com/images/I/71XPQ7H37KL.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "Bad Hair Day",
+        "date": "1996-03-12",
+        "cover": "https://m.media-amazon.com/images/I/71UER--16IL.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "Running with Scissors",
+        "date": "1999-06-29",
+        "cover": "https://m.media-amazon.com/images/I/91Xy+ScwzIL.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "Poodle Hat",
+        "date": "2003-05-20",
+        "cover": "https://m.media-amazon.com/images/I/81+6iIoTJcL.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "Straight Outta Lynwood",
+        "date": "2006-09-26",
+        "cover": "https://m.media-amazon.com/images/I/91i2QsweCPL.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "Alpocalypse",
+        "date": "2011-06-21",
+        "cover": "https://m.media-amazon.com/images/I/81X9jNm+lqL.jpg"
+    },
+    {
+        "artist": "\"Weird Al\" Yankovic",
+        "album": "Mandatory Fun",
+        "date": "2014-07-15",
+        "cover": "https://m.media-amazon.com/images/I/81a4VDHeTZL.jpg"
+    },
+    {
+        "artist": "Ariana Grande",
+        "album": "thank u next",
+        "date": "2019-02-08",
+        "cover": "https://m.media-amazon.com/images/I/61QPrKmNUtL.jpg"
+    },
+    {
+        "artist": "Avril Lavigne",
+        "album": "Under My Skin",
+        "date": "2004-05-21",
+        "cover": "https://m.media-amazon.com/images/I/711gy8MNT0L.jpg"
+    },
+    {
+        "artist": "Boards of Canada",
+        "album": "Music Has the Right to Children",
+        "date": "1998-04-20",
+        "cover": "https://m.media-amazon.com/images/I/81JHZJe26fL.jpg"
+    },
+    {
+        "artist": "Boards of Canada",
+        "album": "Geogaddi",
+        "date": "2002-02-13",
+        "cover": "https://m.media-amazon.com/images/I/71HKiyfjbgL.jpg"
+    },
+    {
+        "artist": "Carpenter Brut",
+        "album": "TRILOGY",
+        "date": "2015-02-10",
+        "cover": "https://m.media-amazon.com/images/I/81Td0hUzvLL.jpg"
+    },
+    {
+        "artist": "cookiefonster",
+        "album": "Cookiefonster's 2021 Famitracker Covers",
+        "date": "2022-01-02",
+        "cover": "https://f4.bcbits.com/img/a3327052994_0.jpg"
+    },
+    {
+        "artist": "Daft Punk",
+        "album": "Alive 2007",
+        "date": "2007-11-20",
+        "cover": "https://m.media-amazon.com/images/I/71s99Vs2E-L.jpg"
+    },
+    {
+        "artist": "DEMONDICE",
+        "album": "Strange Fiction",
+        "date": "2019-08-06",
+        "cover": "https://m.media-amazon.com/images/I/91BbtUP6xIL.jpg"
+    },
+    {
+        "artist": "duuzu",
+        "album": "DUUZU ALIVE @ CRUMPLSTOCK 9",
+        "date": "2021-06-28",
+        "cover": "https://f4.bcbits.com/img/a3880192715_0.jpg"
+    },
+    {
+        "artist": "Eurobeat Brony",
+        "album": "Super Ponybeat Vol. 1",
+        "date": "2011-03-26",
+        "cover": "https://f4.bcbits.com/img/a0294943362_0.jpg"
+    },
+    {
+        "artist": "Eurobeat Brony",
+        "album": "Super Ponybeat Vol. 2",
+        "date": "2011-08-07",
+        "cover": "https://f4.bcbits.com/img/a3833093637_0.jpg"
+    },
+    {
+        "artist": "Eurobeat Brony",
+        "album": "Super Ponybeat Vol. 3",
+        "date": "2012-12-11",
+        "cover": "https://f4.bcbits.com/img/a2081839290_0.jpg"
+    },
+    {
+        "artist": "Figure",
+        "album": "Monsters of Drumstep",
+        "date": "2011-02-28",
+        "cover": "https://m.media-amazon.com/images/I/91TSDACHLRL.jpg"
+    },
+    {
+        "artist": "Figure",
+        "album": "Monsters Volume 2",
+        "date": "2011-10-06",
+        "cover": "https://m.media-amazon.com/images/I/91oGDdZ8ZhL.jpg"
+    },
+    {
+        "artist": "Figure",
+        "album": "Monsters Volume 3",
+        "date": "2012-10-16",
+        "cover": "https://m.media-amazon.com/images/I/91sYarkCNML.jpg"
+    },
+    {
+        "artist": "Figure",
+        "album": "Monsters Volume 4",
+        "date": "2013-10-15",
+        "cover": "https://m.media-amazon.com/images/I/81as0c+As-L.jpg"
+    },
+    {
+        "artist": "Figure",
+        "album": "Monsters Volume 5",
+        "date": "2014-10-14",
+        "cover": "https://m.media-amazon.com/images/I/81wb+tGtpJL.jpg"
+    },
+    {
+        "artist": "Figure",
+        "album": "Monsters Volume 6.66",
+        "date": "2015-10-16",
+        "cover": "https://m.media-amazon.com/images/I/91mAtDys84L.jpg"
+    },
+    {
+        "artist": "Figure",
+        "album": "Monsters Volume 7",
+        "date": "2016-10-07",
+        "cover": "https://m.media-amazon.com/images/I/91J3rDXyX-L.jpg"
+    },
+    {
+        "artist": "Figure",
+        "album": "Monsters Volume 8",
+        "date": "2017-10-13",
+        "cover": "https://m.media-amazon.com/images/I/91Pou-077IL.jpg"
+    },
+    {
+        "artist": "Figure",
+        "album": "Monsters Volume 9: The Asylum",
+        "date": "2018-10-12",
+        "cover": "https://m.media-amazon.com/images/I/91crBzTACdL.jpg"
+    },
+    {
+        "artist": "Figure",
+        "album": "Monsters Volume 10",
+        "date": "https://m.media-amazon.com/images/I/91Qy9Q7W7QL.jpg",
+        "cover": "2019-10-11"
+    },
+    {
+        "artist": "Figure",
+        "album": "Monsters Volume 11: XI Monstrum",
+        "date": "https://m.media-amazon.com/images/I/71MAfN4TlEL.jpg",
+        "cover": "2020-10-02"
+    },
+    {
+        "artist": "Figure",
+        "album": "Monsters Volume 12",
+        "date": "2021-10-15",
+        "cover": "https://m.media-amazon.com/images/I/810OUk-UxDL.jpg"
+    },
+    {
+        "artist": "Gorillaz",
+        "album": "The Now Now",
+        "date": "2018-06-29",
+        "cover": "https://m.media-amazon.com/images/I/A1A7ejXNCjL.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "39/Smooth",
+        "date": "1991-10-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/984fe95539cf9b053c8543309714ce90"
+    },
+    {
+        "artist": "Green Day",
+        "album": "Kerplunk",
+        "date": "1991-12-17",
+        "cover": "https://m.media-amazon.com/images/I/7131n5RNYpL.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "Dookie",
+        "date": "1994-02-01",
+        "cover": "https://m.media-amazon.com/images/I/91kny7EUh5L.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "Insomniac",
+        "date": "1995-10-10",
+        "cover": "https://m.media-amazon.com/images/I/81YXXCdxNqL.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "Nimrod",
+        "date": "1997-10-13",
+        "cover": "https://m.media-amazon.com/images/I/71dBwWTWgKL.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "Warning",
+        "date": "2000-10-03",
+        "cover": "https://m.media-amazon.com/images/I/81sVKwzutJL.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "American Idiot",
+        "date": "2004-09-21",
+        "cover": "https://m.media-amazon.com/images/I/71Z0rLIvpuL.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "21st Century Breakdown",
+        "date": "2009-05-15",
+        "cover": "https://m.media-amazon.com/images/I/81dmRIIv-dL.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "¡UNO!",
+        "date": "2012-09-21",
+        "cover": "https://m.media-amazon.com/images/I/9191xHqeaLL.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "¡DOS!",
+        "date": "2012-11-09",
+        "cover": "https://m.media-amazon.com/images/I/91wqoZwBbrL.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "¡TRÉ!",
+        "date": "2012-12-07",
+        "cover": "https://m.media-amazon.com/images/I/91QjSWj9YhL.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "Revolution Radio",
+        "date": "2016-10-07",
+        "cover": "https://m.media-amazon.com/images/I/91UGw8AzU5L.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "Father of All Motherfuckers",
+        "date": "2020-02-07",
+        "cover": "https://m.media-amazon.com/images/I/91zO4-6YphL.jpg"
+    },
+    {
+        "artist": "Hideki Naganuma",
+        "album": "Sonic Rush: Original Groove Rush.",
+        "date": "2005-11-23",
+        "cover": "https://t2.genius.com/unsafe/1144x0/https%3A%2F%2Fimages.genius.com%2F9efea3456e0bb6eb7f866c3d696fc762.740x740x1.png"
+    },
+    {
+        "artist": "IkaGunner",
+        "album": "IkaGunner O.S.T",
+        "date": "2020-11-14",
+        "cover": "https://f4.bcbits.com/img/a2058288271_0.jpg"
+    },
+    {
+        "artist": "IkaGunner",
+        "album": "♪Dumb rips for a dumb girl♪",
+        "date": "2021-03-17",
+        "cover": "https://f4.bcbits.com/img/a1184811485_0.jpg"
+    },
+    {
+        "artist": "IkaGunner",
+        "album": "LG RIP IT",
+        "date": "2021-06-28",
+        "cover": "https://f4.bcbits.com/img/a2735754716_0.jpg"
+    },
+    {
+        "artist": "IkaGunner",
+        "album": "IkaGunner Original Soundtrack 2",
+        "date": "2021-11-26",
+        "cover": "https://f4.bcbits.com/img/a1380112373_0.jpg"
+    },
+    {
+        "artist": "John Coltrane",
+        "album": "Giant Steps",
+        "date": "1960-02-01",
+        "cover": "https://m.media-amazon.com/images/I/81ExCQSy+jL.jpg"
+    },
+    {
+        "artist": "Justice",
+        "album": "A Cross the Universe",
+        "date": "2008-11-24",
+        "cover": "https://m.media-amazon.com/images/I/61abEXdUPzL.jpg"
+    },
+    {
+        "artist": "Justice",
+        "album": "Access All Arenas",
+        "date": "2013-05-06",
+        "cover": "https://m.media-amazon.com/images/I/81oWfFkTy9L.jpg"
+    },
+    {
+        "artist": "Justice",
+        "album": "Woman Worldwide",
+        "date": "2018-08-24",
+        "cover": "https://m.media-amazon.com/images/I/811HviBBP+L.jpg"
+    },
+    {
+        "artist": "Kitsune²",
+        "album": "Kitsune²",
+        "date": "2007-01-01",
+        "cover": "https://coverartarchive.org/release/634fe60a-b5e6-4f24-8726-a2f3663a9999/front"
+    },
+    {
+        "artist": "Kitsune²",
+        "album": "I Kind Of Really Want To Make Love To You",
+        "date": "2007-01-01",
+        "cover": "https://coverartarchive.org/release/7c10f8a5-669f-4ff6-bb88-de59846c0e0c/front"
+    },
+    {
+        "artist": "Kitsune²",
+        "album": "STRIKER!",
+        "date": "2008-01-01",
+        "cover": "https://coverartarchive.org/release/9545d29c-57b3-46b0-b5de-025ad45f3133/front"
+    },
+    {
+        "artist": "Kitsune²",
+        "album": "Tracker's Draft",
+        "date": "2015-05-07",
+        "cover": "https://f4.bcbits.com/img/a3466606027_0.jpg"
+    },
+    {
+        "artist": "Knife Party",
+        "album": "100% No Modern Talking",
+        "date": "2011-12-12",
+        "cover": "https://m.media-amazon.com/images/I/81OMQeZImeL.jpg"
+    },
+    {
+        "artist": "Knife Party",
+        "album": "Rage Valley",
+        "date": "2012-05-27",
+        "cover": "https://m.media-amazon.com/images/I/81qc7oDhdhL.jpg"
+    },
+    {
+        "artist": "Knife Party",
+        "album": "Haunted House",
+        "date": "2013-05-05",
+        "cover": "https://m.media-amazon.com/images/I/91xRt1tYRcL.jpg"
+    },
+    {
+        "artist": "Knife Party",
+        "album": "Abandon Ship",
+        "date": "2014-10-27",
+        "cover": "https://m.media-amazon.com/images/I/71McboeUN7L.jpg"
+    },
+    {
+        "artist": "Knife Party",
+        "album": "Trigger Warning",
+        "date": "2015-11-20",
+        "cover": "https://m.media-amazon.com/images/I/71-M8WqXZeL.jpg"
+    },
+    {
+        "artist": "Knife Party",
+        "album": "Lost Souls",
+        "date": "2019-07-19",
+        "cover": "https://m.media-amazon.com/images/I/91U843aLT0L.jpg"
+    },
+    {
+        "artist": "Lemon Demon",
+        "album": "I Am Become Christmas",
+        "date": "2012-12-21",
+        "cover": "https://m.media-amazon.com/images/I/81d8bMJiGEL.jpg"
+    },
+    {
+        "artist": "Lemon Demon",
+        "album": "Nature Tapes",
+        "date": "2014-03-24",
+        "cover": "https://m.media-amazon.com/images/I/61Wf+EzrnHL.jpg"
+    },
+    {
+        "artist": "Lena Raine",
+        "album": "Celeste Original Soundtrack",
+        "date": "2018-01-25",
+        "cover": "https://m.media-amazon.com/images/I/91jhqj5o39L.jpg"
+    },
+    {
+        "artist": "M83",
+        "album": "Hurry Up We're Dreaming",
+        "date": "2011-10-18",
+        "cover": "https://m.media-amazon.com/images/I/71506Pn4zoL.jpg"
+    },
+    {
+        "artist": "Madeon",
+        "album": "The City",
+        "date": "2012-10-08",
+        "cover": "https://m.media-amazon.com/images/I/81SBbei7DFL.jpg"
+    },
+    {
+        "artist": "Madeon",
+        "album": "Japan Only",
+        "date": "2013-10-22",
+        "cover": "https://i.discogs.com/fUnmfQDMaQERx1BnOKWKDO-69N3Hj8pvEfS7GDqsRTY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODE2/NzgtMTM4Njc0NTY2/OC05ODA1LmpwZWc.jpeg"
+    },
+    {
+        "artist": "Madeon",
+        "album": "Adventure",
+        "date": "2015-03-27",
+        "cover": "https://m.media-amazon.com/images/I/61DONC+YnWL.jpg"
+    },
+    {
+        "artist": "Madeon",
+        "album": "Pay No Mind (Remixes)",
+        "date": "2015-08-28",
+        "cover": "https://m.media-amazon.com/images/I/81hd8ie5FKL.jpg"
+    },
+    {
+        "artist": "Madeon",
+        "album": "Good Faith",
+        "date": "2019-11-15",
+        "cover": "https://m.media-amazon.com/images/I/71rKnB0aWGL.jpg"
+    },
+    {
+        "artist": "MASHUP WEEK",
+        "album": "Mashup Week: The Album (Part 1)",
+        "date": "2020-12-15",
+        "cover": "https://f4.bcbits.com/img/a2056658087_0.jpg"
+    },
+    {
+        "artist": "Metallica",
+        "album": "Kill 'Em All",
+        "date": "1983-07-25",
+        "cover": "https://m.media-amazon.com/images/I/71uKNZE8GrL.jpg"
+    },
+    {
+        "artist": "Metallica",
+        "album": "Ride the Lightning",
+        "date": "1984-07-27",
+        "cover": "https://m.media-amazon.com/images/I/81b4MlZdB2L.jpg"
+    },
+    {
+        "artist": "Metallica",
+        "album": "Master of Puppets",
+        "date": "1986-03-03",
+        "cover": "https://m.media-amazon.com/images/I/81smL3b3+jL.jpg"
+    },
+    {
+        "artist": "Metallica",
+        "album": "...And Justice for All",
+        "date": "1988-08-25",
+        "cover": "https://m.media-amazon.com/images/I/813Ff7t1bPL.jpg"
+    },
+    {
+        "artist": "Metallica",
+        "album": "Metallica",
+        "date": "1991-08-12",
+        "cover": "https://m.media-amazon.com/images/I/411pMy47xvS.jpg"
+    },
+    {
+        "artist": "Mr. Oizo",
+        "album": "#1",
+        "date": "1997-09-01",
+        "cover": "https://m.media-amazon.com/images/I/81J-11PZVxL.jpg"
+    },
+    {
+        "artist": "Mr. Oizo",
+        "album": "M-Seq",
+        "date": "1998-07-01",
+        "cover": "https://m.media-amazon.com/images/I/71FtdBXiCCL.jpg"
+    },
+    {
+        "artist": "Mr. Oizo",
+        "album": "Analog Worms Attack",
+        "date": "1999-10-19",
+        "cover": "https://m.media-amazon.com/images/I/91Q1TDPhSqL.jpg"
+    },
+    {
+        "artist": "Mr. Oizo",
+        "album": "Moustache (Half a Scissor)",
+        "date": "2005-09-19",
+        "cover": "https://m.media-amazon.com/images/I/81eHFQUWZHL.jpg"
+    },
+    {
+        "artist": "Mr. Oizo",
+        "album": "Transexual/Patrick122",
+        "date": "2007-06-05",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/80ad02fd7c55ecf7fbf485d12dabf3e4"
+    },
+    {
+        "artist": "Mr. Oizo",
+        "album": "Lambs Anger",
+        "date": "2008-11-24",
+        "cover": "https://m.media-amazon.com/images/I/717rBPBvulL.jpg"
+    },
+    {
+        "artist": "Mr. Oizo",
+        "album": "Stade 2",
+        "date": "2011-11-11",
+        "cover": "https://m.media-amazon.com/images/I/61HAL5hTGYL.jpg"
+    },
+    {
+        "artist": "Mr. Oizo",
+        "album": "Stade 3",
+        "date": "2012-04-25",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/c107a7d69faab452f4009245d2f4f71e"
+    },
+    {
+        "artist": "Mr. Oizo",
+        "album": "The Church",
+        "date": "2014-11-17",
+        "cover": "https://m.media-amazon.com/images/I/71T6d6i2EyL.jpg"
+    },
+    {
+        "artist": "Mr. Oizo",
+        "album": "Unreleased Unfinished Unpleasant",
+        "date": "2012-11-24",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/271b4bebf3a55f140bca8f6f1c3d9b9d"
+    },
+    {
+        "artist": "MY LITTLE PONY",
+        "album": "Songs of Friendship and Magic",
+        "date": "2013-12-02",
+        "cover": "https://m.media-amazon.com/images/I/71rZ7E2qcxL.jpg"
+    },
+    {
+        "artist": "MY LITTLE PONY",
+        "album": "Songs of Ponyville",
+        "date": "2014-04-21",
+        "cover": "https://m.media-amazon.com/images/I/71pN0Nz6QLL.jpg"
+    },
+    {
+        "artist": "MY LITTLE PONY",
+        "album": "Songs of Harmony",
+        "date": "2015-04-13",
+        "cover": "https://m.media-amazon.com/images/I/71bx8spVEiL.jpg"
+    },
+    {
+        "artist": "MY LITTLE PONY",
+        "album": "DJ PON-3 Presents - Friendship is Magic Remixed",
+        "date": "2015-06-23",
+        "cover": "https://m.media-amazon.com/images/I/71D6ISQlBnL.jpg"
+    },
+    {
+        "artist": "MY LITTLE PONY",
+        "album": "Pinkie Pie's Party Playlist",
+        "date": "2016-07-15",
+        "cover": "https://m.media-amazon.com/images/I/81puFpMJ83L.jpg"
+    },
+    {
+        "artist": "My Little Remix",
+        "album": "A Dash of Insanity",
+        "date": "2012-06-28",
+        "cover": "https://f4.bcbits.com/img/a1846276204_0.jpg"
+    },
+    {
+        "artist": "Mysikt",
+        "album": "Small Shock | Undertale Music",
+        "date": "2022-01-22",
+        "cover": "https://f4.bcbits.com/img/a1505395612_0.jpg"
+    },
+    {
+        "artist": "overcast07",
+        "album": "Volume 1",
+        "date": "2022-01-01",
+        "cover": "https://f4.bcbits.com/img/a0543622490_0.jpg"
+    },
+    {
+        "artist": "overcast07",
+        "album": "Volume 2",
+        "date": "2022-03-28",
+        "cover": "https://f4.bcbits.com/img/a0110383977_0.jpg"
+    },
+    {
+        "artist": "Paul McCartney",
+        "album": "McCartney",
+        "date": "1970-04-17",
+        "cover": "https://m.media-amazon.com/images/I/61iLi3CjXIL.jpg"
+    },
+    {
+        "artist": "Paul McCartney",
+        "album": "Ram",
+        "date": "1971-05-17",
+        "cover": "https://m.media-amazon.com/images/I/81pbkpqQJQL.jpg"
+    },
+    {
+        "artist": "Paul McCartney",
+        "album": "McCartney II",
+        "date": "1980-05-16",
+        "cover": "https://m.media-amazon.com/images/I/91KLq+4SekL.jpg"
+    },
+    {
+        "artist": "Pink Neon Tokyo",
+        "album": "Pink Neon Tokyo 1st",
+        "date": "2016-10-15",
+        "cover": "https://f4.bcbits.com/img/a2147550532_0.jpg"
+    },
+    {
+        "artist": "Pink Neon Tokyo",
+        "album": "Pink Neon Tokyo 2nd",
+        "date": "2017-12-14",
+        "cover": "https://f4.bcbits.com/img/a2804029433_0.jpg"
+    },
+    {
+        "artist": "Pink Neon Tokyo",
+        "album": "Pink Neon Tokyo 3rd",
+        "date": "2019-03-02",
+        "cover": "https://f4.bcbits.com/img/a1716020369_0.jpg"
+    },
+    {
+        "artist": "Pink Neon Tokyo",
+        "album": "Pink Neon Tokyo 4th",
+        "date": "2020-04-01",
+        "cover": "https://f4.bcbits.com/img/a2858309461_0.jpg"
+    },
+    {
+        "artist": "Pink Neon Tokyo",
+        "album": "Single Collection Vol.1",
+        "date": "2017-01-22",
+        "cover": "https://f4.bcbits.com/img/a2535590472_0.jpg"
+    },
+    {
+        "artist": "Pink Neon Tokyo",
+        "album": "Single Collection Vol.2",
+        "date": "2017-11-20",
+        "cover": "https://f4.bcbits.com/img/a1578913636_0.jpg"
+    },
+    {
+        "artist": "Pink Neon Tokyo",
+        "album": "Single Collection Vol.3",
+        "date": "2018-08-29",
+        "cover": "https://f4.bcbits.com/img/a2217767955_0.jpg"
+    },
+    {
+        "artist": "pluffaduff",
+        "album": "Project Cross",
+        "date": "2022-01-15",
+        "cover": "https://f4.bcbits.com/img/a2031275253_0.jpg"
+    },
+    {
+        "artist": "Rage Against The Machine",
+        "album": "Rage Against The Machine",
+        "date": "1992-11-06",
+        "cover": "https://m.media-amazon.com/images/I/81tyP2r+SpL.jpg"
+    },
+    {
+        "artist": "Rob Zombie",
+        "album": "Hellbilly Deluxe",
+        "date": "1998-08-25",
+        "cover": "https://m.media-amazon.com/images/I/815gfgmdUUL.jpg"
+    },
+    {
+        "artist": "SebastiAn",
+        "album": "Smoking Kills (?)",
+        "date": "2006-11-13",
+        "cover": "https://m.media-amazon.com/images/I/71aSnNb7c8L.jpg"
+    },
+    {
+        "artist": "SebastiAn",
+        "album": "H.A.L./Time.Period",
+        "date": "",
+        "cover": "https://i.discogs.com/Rj4KiupnvVzoumUNQCLTK_6tpJzIRyWANZRL4kV2UaE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjA5/NC0xMzQwNTQ3NTIw/LTg2NzMuanBlZw.jpeg"
+    },
+    {
+        "artist": "SebastiAn",
+        "album": "Ross Ross Ross",
+        "date": "2006-08-28",
+        "cover": "https://m.media-amazon.com/images/I/61OHUwrtm-L.jpg"
+    },
+    {
+        "artist": "SebastiAn",
+        "album": "Walkman 2",
+        "date": "2007-11-15",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/795a08e1ae8a49b8b190c0501d50254a"
+    },
+    {
+        "artist": "SebastiAn",
+        "album": "Motor",
+        "date": "2008-04-28",
+        "cover": "https://m.media-amazon.com/images/I/81uBi8MdeVL.jpg"
+    },
+    {
+        "artist": "SebastiAn",
+        "album": "Remixes",
+        "date": "2008-09-22",
+        "cover": "https://i.discogs.com/wlMQSaMEr239crOf9ERWNV-0kx7b-v8kI2V70tbZjm0/rs:fit/g:sm/q:90/h:452/w:454/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTI2/NDYtMTMxOTg4OTg0/NS5qcGVn.jpeg"
+    },
+    {
+        "artist": "SebastiAn",
+        "album": "The EP Collection",
+        "date": "2012-04-16",
+        "cover": "https://i.discogs.com/FunfWWAfdQOI9uiq96wADsy-WTp5OgDE0vowJATmoHY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU2/NDgtMTMzNDgzNzYy/Ni5qcGVn.jpeg"
+    },
+    {
+        "artist": "Skream",
+        "album": "Skream!",
+        "date": "2006-10-30",
+        "cover": "https://m.media-amazon.com/images/I/718kDpnbOTL.jpg"
+    },
+    {
+        "artist": "Skream & Benga",
+        "album": "The Judgement",
+        "date": "2003-06-01",
+        "cover": "https://i.discogs.com/jA_y6T0vqsPzmA26jahGzivsahfFa_LG9MG9_ldoYeY/rs:fit/g:sm/q:90/h:571/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODI1/MS0xMzg3MTMxOTYx/LTU4NDQuanBlZw.jpeg"
+    },
+    {
+        "artist": "Skream & Benga",
+        "album": "Hydro",
+        "date": "2004-05-01",
+        "cover": "https://i.discogs.com/TFd5jrstLjewQapcNVKxi5M1nABuhLI6JI-fkqYLAGg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTQ4/Ny0xMTYzNTA0Njk0/LmpwZWc.jpeg"
+    },
+    {
+        "artist": "Skrillex",
+        "album": "Gypsyhook",
+        "date": "2009-04-07",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/0039311373774e9ca7757af159bcf769"
+    },
+    {
+        "artist": "Skrillex",
+        "album": "My Name Is Skrillex",
+        "date": "2010-07-07",
+        "cover": "https://i.discogs.com/VKXeipjyZuOe0L5_k3rXz7spt6eal6Xm36vxPckkK9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ3/Mzc4LTE1MjE2ODk4/NDMtNzU0OC5qcGVn.jpeg"
+    },
+    {
+        "artist": "Skrillex",
+        "album": "Scary Monsters and Nice Sprites",
+        "date": "2010-10-25",
+        "cover": "https://m.media-amazon.com/images/I/81sDTnurcPL.jpg"
+    },
+    {
+        "artist": "Skrillex",
+        "album": "More Monsters And Sprites",
+        "date": "2011-06-07",
+        "cover": "https://m.media-amazon.com/images/I/817zDEQncwL.jpg"
+    },
+    {
+        "artist": "Skrillex",
+        "album": "Bangarang",
+        "date": "2011-12-23",
+        "cover": "https://m.media-amazon.com/images/I/91Smva2Q6cL.jpg"
+    },
+    {
+        "artist": "Slipknot",
+        "album": "All Hope Is Gone",
+        "date": "2008-08-22",
+        "cover": "https://m.media-amazon.com/images/I/914Z9IVF6CL.jpg"
+    },
+    {
+        "artist": "Snail's House",
+        "album": "Ordinary Songs 1",
+        "date": "2016-03-29",
+        "cover": "https://m.media-amazon.com/images/I/71oj0UPD9FL.jpg"
+    },
+    {
+        "artist": "Snail's House",
+        "album": "Ordinary Songs 2",
+        "date": "2016-11-17",
+        "cover": "https://m.media-amazon.com/images/I/81qP38zbhyL.jpg"
+    },
+    {
+        "artist": "Snail's House",
+        "album": "Ordinary Songs 3",
+        "date": "2017-06-15",
+        "cover": "https://m.media-amazon.com/images/I/91Qp+u8Ze+L.jpg"
+    },
+    {
+        "artist": "Snail's House",
+        "album": "Ordinary Songs 4",
+        "date": "2018-02-23",
+        "cover": "https://m.media-amazon.com/images/I/A1eSg0IxBQL.jpg"
+    },
+    {
+        "artist": "Snail's House",
+        "album": "Ordinary Songs 5",
+        "date": "2020-02-23",
+        "cover": "https://m.media-amazon.com/images/I/71vfNb9kW5L.jpg"
+    },
+    {
+        "artist": "The Beatle Bronies",
+        "album": "The Blank Album Vol. 1",
+        "date": "2011-08-31",
+        "cover": "https://f4.bcbits.com/img/a0117843259_0.jpg"
+    },
+    {
+        "artist": "The Beatle Bronies",
+        "album": "The Blank Album Vol. 2",
+        "date": "2011-09-19",
+        "cover": "https://f4.bcbits.com/img/a1644243034_0.jpg"
+    },
+    {
+        "artist": "The Beatle Bronies",
+        "album": "Brony Soul",
+        "date": "2011-12-03",
+        "cover": "https://f4.bcbits.com/img/a3216488236_0.jpg"
+    },
+    {
+        "artist": "The Beatle Bronies",
+        "album": "After Magical Studies",
+        "date": "2011-12-03",
+        "cover": "https://f4.bcbits.com/img/a3494635487_0.jpg"
+    },
+    {
+        "artist": "The Beatle Bronies",
+        "album": "Sgt. Pinkie's Lonely Hooves Club Band",
+        "date": "2011-08-15",
+        "cover": "https://f4.bcbits.com/img/a2492392060_0.jpg"
+    },
+    {
+        "artist": "The Beatle Bronies",
+        "album": "Apple Road [Remastered]",
+        "date": "2012-06-29",
+        "cover": "https://f4.bcbits.com/img/a3203398498_0.jpg"
+    },
+    {
+        "artist": "The Beatle Bronies",
+        "album": "Plastic Pony Band",
+        "date": "2011-12-03",
+        "cover": "https://f4.bcbits.com/img/a3271721790_0.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "A Hard Day's Night",
+        "date": "1964-07-10",
+        "cover": "https://m.media-amazon.com/images/I/71NdoHWIlcL.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "Help!",
+        "date": "1965-08-06",
+        "cover": "https://m.media-amazon.com/images/I/61rGOLjB9hL.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "Rubber Soul",
+        "date": "1992-12-03",
+        "cover": "https://m.media-amazon.com/images/I/71D25suENKL.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "date": "1966-08-05",
+        "cover": "https://m.media-amazon.com/images/I/914TUQqJR9L.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band",
+        "date": "1967-05-26",
+        "cover": "https://m.media-amazon.com/images/I/91aR+Md4-WL.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "Abbey Road",
+        "date": "1969-09-26",
+        "cover": "https://m.media-amazon.com/images/I/81GH9G5ayjL.jpg"
+    },
+    {
+        "artist": "Vylet Pony",
+        "album": "CUTIEMARKS (And the Things That Bind Us)",
+        "date": "2021-07-30",
+        "cover": "https://m.media-amazon.com/images/I/81CLivjHg+L.jpg"
+    },
+    {
+        "artist": "SOPHIE",
+        "album": "Product",
+        "date": "2015-11-28",
+        "cover": "https://f4.bcbits.com/img/a1782637070_0.jpg"
+    },
+    {
+        "artist": "SOPHIE",
+        "album": "Oil of Every Pearl's Un-Insides",
+        "date": "2018-06-15",
+        "cover": "https://m.media-amazon.com/images/I/A1OpKb-P7wL.jpg"
+    },
+    {
+        "artist": "The Blake Robinson Synthetic Orchestra, Yiannis Ioannides, Christiaan Bakker, Tom Schley",
+        "album": "The Stanley Parable: Ultra Deluxe – The Complete Soundtrack",
+        "date": "2022-06-08",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/f2632f62398c09b09e9aef53dcfb5e68"
+    },
+    {
+        "artist": "The Eagles",
+        "album": "Hotel California",
+        "date": "1976-12-08",
+        "cover": "https://m.media-amazon.com/images/I/91ZToNImCIL.jpg"
+    },
+    {
+        "artist": "TimmyTurnersGrandDad",
+        "album": "Takeofur: A memento from Dimmstail Furcon 2019",
+        "date": "2019-04-02",
+        "cover": "https://f4.bcbits.com/img/a2221288883_0.jpg"
+    },
+    {
+        "artist": "SoulEye",
+        "album": "PPPPPP - The VVVVVV soundtrack",
+        "date": "2010-01-10",
+        "cover": "https://f4.bcbits.com/img/a1101093077_0.jpg"
+    },
+    {
+        "artist": "Team Shanghai Alice",
+        "album": "History of Yougakudan 1 ~ Akyu's Untouched Score vol.1",
+        "date": "2006-05-21",
+        "cover": "https://media.vgm.io/albums/90/5809/5809-8e2214742471.jpg"
     }
 ]
