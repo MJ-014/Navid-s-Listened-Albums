@@ -1,21 +1,6 @@
-# bun-react-tailwind-template
+# About This Project
 
-To install dependencies:
+Have you ever wondered what albums I've listened to?
+Me too. that's why I made this.
 
-```bash
-bun install
-```
-
-To start a development server:
-
-```bash
-bun dev
-```
-
-To run for production:
-
-```bash
-bun start
-```
-
-This project was created using `bun init` in bun v1.3.8. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+This is a list of all the albums I've listened to, in a Topster style layout. This was mostly made as a practice in React.
