@@ -3173,7 +3173,7 @@
         "date": "2023-03-31",
         "cover": "https://m.media-amazon.com/images/I/71EFuGpc7QL.jpg"
     },
-        {
+    {
         "artist": "ABBA",
         "album": "Ring Ring",
         "date": "1973-03-26",
@@ -3204,360 +3204,633 @@
         "cover": "https://m.media-amazon.com/images/I/71PbrQtxYWL.jpg"
     },
     {
-
         "artist": "AC/DC",
         "album": "Highway To Hell",
         "date": "1979-07-27",
         "cover": "https://m.media-amazon.com/images/I/71K1+8Xc7vL.jpg"
     },
     {
-
         "artist": "Aphex Twin",
         "album": "Windowlicker",
         "date": "1999-03-22",
         "cover": "https://m.media-amazon.com/images/I/71PrASLblmL.jpg"
     },
     {
-
         "artist": "Aps17",
         "album": "ZIPCHASE FLOW",
         "date": "2024-03-12",
         "cover": "https://m.media-amazon.com/images/I/81Zy6NFClcL.jpg"
     },
     {
-
         "artist": "Avril Lavigne",
         "album": "Head Above Water",
         "date": "2019-02-15",
         "cover": "https://m.media-amazon.com/images/I/71NskVaeO5L.jpg"
     },
     {
-
         "artist": "Avril Lavigne",
         "album": "Love Sux",
         "date": "2022-02-25",
         "cover": "https://m.media-amazon.com/images/I/71zUDzbwh0L.jpg"
     },
     {
-
         "artist": "Black Country, New Road",
         "album": "Ants From Up There",
         "date": "2022-02-04",
         "cover": "https://lastfm.freetls.fastly.net/i/u/3332b3cee5de8598dbd080f8e2783f93"
     },
     {
-
         "artist": "Breakwater",
         "album": "Splashdown",
         "date": "1980-04-29",
         "cover": "https://m.media-amazon.com/images/I/71LAE5KJCvL.jpg"
     },
     {
-
         "artist": "Cheap Trick",
         "album": "Cheap Trick",
         "date": "1977-02-03",
         "cover": "https://m.media-amazon.com/images/I/81Eadn84cTL.jpg"
     },
     {
-
         "artist": "David Bowie",
         "album": "David Bowie",
         "date": "1967-06-01",
         "cover": "https://lastfm.freetls.fastly.net/i/u/7448b481e96b6070dd5ab7aa73e0a5bb"
     },
     {
-
         "artist": "David Bowie",
         "album": "The Man Who Sold the World",
         "date": "1970-11-04",
         "cover": "https://lastfm.freetls.fastly.net/i/u/4356ad32202c5766aecb828b936afae6"
     },
     {
-
         "artist": "Death Grips",
         "album": "Year of the Snitch",
         "date": "2018-06-22",
         "cover": "https://m.media-amazon.com/images/I/61J8zBnir4L.jpg"
     },
     {
-
         "artist": "Electric Light Orchestra",
         "album": "A New World Record",
         "date": "1976-09-11",
         "cover": "https://m.media-amazon.com/images/I/71EmHrddx8L.jpg"
     },
     {
-
         "artist": "Electric Light Orchestra",
         "album": "Discovery",
         "date": "1979-05-31",
         "cover": "https://m.media-amazon.com/images/I/71VzEl4WVDL.jpg"
     },
     {
-
         "artist": "Electric Light Orchestra",
         "album": "Time",
         "date": "1981-07-31",
         "cover": "https://m.media-amazon.com/images/I/61koflFm-iL.jpg"
     },
     {
-
         "artist": "Electric Light Orchestra",
         "album": "Secret Messages",
         "date": "1983-06-24",
         "cover": "https://m.media-amazon.com/images/I/71cfPoX8hnL.jpg"
     },
     {
-
         "artist": "Electric Light Orchestra",
         "album": "Balance of Power",
         "date": "1986-03-03",
         "cover": "https://m.media-amazon.com/images/I/51VxwX3xdiL.jpg"
     },
     {
-
         "artist": "Electric Light Orchestra",
         "album": "Zoom",
         "date": "2001-06-12",
         "cover": "https://m.media-amazon.com/images/I/713FAbdmnXL.jpg"
     },
     {
-
         "artist": "Femtanyl",
         "album": "CHASER",
         "date": "2023-09-07",
         "cover": "https://m.media-amazon.com/images/I/71lcO4xsbvL.jpg"
     },
     {
-
         "artist": "Galactic Hole",
         "album": "Piracies Menu",
         "date": "2023-02-02",
         "cover": "https://f4.bcbits.com/img/a3027107931_0.jpg"
     },
     {
-
         "artist": "Godspeed You! Black Emperor",
         "album": "Lift Your Skinny Fists Like Antennas to Heaven",
         "date": "2000-10-09",
         "cover": "https://lastfm.freetls.fastly.net/i/u/a6c272f896b1579be7ea3dd566d00e77"
     },
     {
-
         "artist": "Justice",
         "album": "Hyperdrama",
         "date": "2024-04-26",
         "cover": "https://m.media-amazon.com/images/I/61Rk1vQrdRL.jpg"
     },
     {
-
         "artist": "Kate Bush",
         "album": "Hounds of Love",
         "date": "1985-01-01",
         "cover": "https://m.media-amazon.com/images/I/71rARKjnqqL.jpg"
     },
     {
-
         "artist": "Led Zeppelin",
         "album": "Led Zeppelin",
         "date": "1969-01-13",
         "cover": "https://m.media-amazon.com/images/I/81L+SWQe++L.jpg"
     },
     {
-
         "artist": "Led Zeppelin",
         "album": "Led Zeppelin II",
         "date": "1969-10-22",
         "cover": "https://m.media-amazon.com/images/I/71Otw4r3ifL.jpg"
     },
     {
-
         "artist": "Led Zeppelin",
         "album": "Led Zeppelin III",
         "date": "1970-10-03",
         "cover": "https://m.media-amazon.com/images/I/81VjVCiyu5L.jpg"
     },
     {
-
         "artist": "Led Zeppelin",
         "album": "Led Zeppelin IV",
         "date": "1971-11-08",
         "cover": "https://m.media-amazon.com/images/I/81x364UAGAL.jpg"
     },
     {
-
         "artist": "Lyn Collins",
         "album": "Think (About It)",
         "date": "1972-09-27",
         "cover": "https://lastfm.freetls.fastly.net/i/u/8783e285d242f836132e9638b40bcaaa"
     },
     {
-
         "artist": "N.W.A",
         "album": "100 Miles and Runnin'",
         "date": "1990-08-14",
         "cover": "https://m.media-amazon.com/images/I/81boIxfFcNL.jpg"
     },
     {
-
         "artist": "N.W.A",
         "album": "Efil4zaggin",
         "date": "1991-05-28",
         "cover": "https://m.media-amazon.com/images/I/81TOaUi2f7L.jpg"
     },
     {
-
         "artist": "Neutral Milk Hotel",
         "album": "In the Aeroplane Over the Sea",
         "date": "2005-09-05",
         "cover": "https://m.media-amazon.com/images/I/81VeNvD9s1L.jpg"
     },
     {
-
         "artist": "Nirvana",
         "album": "Bleach",
         "date": "1989-06-15",
         "cover": "https://m.media-amazon.com/images/I/81r8kvx-FcL.jpg"
     },
     {
-
         "artist": "Nirvana",
         "album": "Nevermind",
         "date": "1991-09-24",
         "cover": "https://m.media-amazon.com/images/I/71N1IYAhX-L.jpg"
     },
     {
-
         "artist": "Nirvana",
         "album": "Hormoaning",
         "date": "1991-02-05",
         "cover": "https://lastfm.freetls.fastly.net/i/u/3d2c2adc9876483084104203e797370b"
     },
     {
-
         "artist": "Nirvana",
         "album": "In Utero",
         "date": "1993-09-21",
         "cover": "https://m.media-amazon.com/images/I/71WPk8O1dtL.jpg"
     },
     {
-
         "artist": "Nirvana",
         "album": "MTV Unplugged in New York",
         "date": "1994-11-01",
         "cover": "https://m.media-amazon.com/images/I/81My7wSiGTL.jpg"
     },
     {
-
         "artist": "Pantera",
         "album": "Vulgar Display of Power",
         "date": "1992-2-25",
         "cover": "https://m.media-amazon.com/images/I/91EoHjN1r6L.jpg"
     },
     {
-
         "artist": "Pearl Jam",
         "album": "Ten",
         "date": "1991-08-27",
         "cover": "https://m.media-amazon.com/images/I/818Vo4rKTNL.jpg"
     },
     {
-
         "artist": "Pendulum",
         "album": "Elemental",
         "date": "2021-06-17",
         "cover": "https://m.media-amazon.com/images/I/81oAmLdxsdL.jpg"
     },
     {
-
         "artist": "Radiohead",
         "album": "OK Computer",
         "date": "1997-05-21",
         "cover": "https://m.media-amazon.com/images/I/91eIIIfAlSL.jpg"
     },
     {
-
         "artist": "Radiohead",
         "album": "Kid A",
         "date": "2000-10-02",
         "cover": "https://m.media-amazon.com/images/I/91WwhnXOV3L.jpg"
     },
     {
-
         "artist": "Radiohead",
         "album": "Amnesiac",
         "date": "2001-06-04",
         "cover": "https://m.media-amazon.com/images/I/A1ZCvLJo3SL.jpg"
     },
     {
-
         "artist": "Styx",
         "album": "Kilroy Was Here",
         "date": "1983-02-22",
         "cover": "https://m.media-amazon.com/images/I/71xZoEm7ZTL.jpg"
     },
     {
-
         "artist": "Swans",
         "album": "Soundtracks for the Blind",
         "date": "1996-10-22",
         "cover": "https://m.media-amazon.com/images/I/A1mdHfDhjQL.jpg"
     },
     {
-
         "artist": "The Winstons",
         "album": "Color Him Father",
         "date": "1969-08-01",
         "cover": "https://m.media-amazon.com/images/I/71ZL0PTC+sL.jpg"
     },
     {
-
         "artist": "TV Girl",
         "album": "Our First 3 EPs",
         "date": "2015-10-01",
         "cover": "https://lastfm.freetls.fastly.net/i/u/54ff8ddc2ae9477de68a7b3897ed4d53"
     },
     {
-
         "artist": "TV Girl",
         "album": "French Exit",
         "date": "2014-06-05",
         "cover": "https://m.media-amazon.com/images/I/71SPwdAnqAL.jpg"
     },
     {
-
         "artist": "TV Girl",
         "album": "Who Really Cares",
         "date": "2016-02-26",
         "cover": "https://m.media-amazon.com/images/I/61tkdmbYlwL.jpg"
     },
     {
-
         "artist": "TV Girl",
         "album": "Death of a Party Girl",
         "date": "2018-05-10",
         "cover": "https://m.media-amazon.com/images/I/81QCbZAhfZL.jpg"
     },
     {
-
         "artist": "TV Girl",
         "album": "The Night in Question: French Exit Outtakes",
         "date": "2020-05-01",
         "cover": "https://m.media-amazon.com/images/I/61pV0wQ3gKL.jpg"
     },
     {
-
         "artist": "Venetian Snares",
         "album": "Huge Chrome Cylinder Box Unfolding",
         "date": "2004-05-10",
         "cover": "https://m.media-amazon.com/images/I/71kSdgTT6QL.jpg"
     },
     {
-
         "artist": "Venetian Snares",
         "album": "Meathole",
         "date": "2005-08-25",
         "cover": "https://m.media-amazon.com/images/I/61khRHHpr7L.jpg"
+    },
+    {
+        "artist": "73",
+        "album": "78 Gold",
+        "date": "2023-12-18",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/8ee34b74360fbdc21aaac43b0f2aa35f"
+    },
+    {
+        "artist": "73",
+        "album": "78 Silver",
+        "date": "2023-12-18",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/d10dc177162fe95d8bb54c9930010328"
+    },
+    {
+        "artist": "Bananarama",
+        "album": "True Confessions",
+        "date": "1986-06-30",
+        "cover": "https://m.media-amazon.com/images/I/91DgzQn62XL.jpg"
+    },
+    {
+        "artist": "Beastie Boys",
+        "album": "Licensed to Ill",
+        "date": "1986-11-15",
+        "cover": "https://m.media-amazon.com/images/I/71tPWsh1iaL.jpg"
+    },
+    {
+        "artist": "Beastie Boys",
+        "album": "Paul's Boutique",
+        "date": "1989-07-25",
+        "cover": "https://m.media-amazon.com/images/I/71AJUDWyzcL.jpg"
+    },
+    {
+        "artist": "Chappell Roan",
+        "album": "School Nights",
+        "date": "2017-09-22",
+        "cover": "https://m.media-amazon.com/images/I/81Z4p54c9FL.jpg"
+    },
+    {
+        "artist": "Charli XCX",
+        "album": "True Romance",
+        "date": "2013-04-12",
+        "cover": "https://m.media-amazon.com/images/I/71taEpvEMUL.jpg"
+    },
+    {
+        "artist": "Clairo",
+        "album": "diary 001",
+        "date": "2018-05-25",
+        "cover": "https://m.media-amazon.com/images/I/81BsYdWGC6L.jpg"
+    },
+    {
+        "artist": "Clairo",
+        "album": "Immunity",
+        "date": "2019-08-02",
+        "cover": "https://m.media-amazon.com/images/I/611As9+VboL.jpg"
+    },
+    {
+        "artist": "Clairo",
+        "album": "Sling",
+        "date": "2021-07-16",
+        "cover": "https://m.media-amazon.com/images/I/61nJSzNnRmS.jpg"
+    },
+    {
+        "artist": "Clairo",
+        "album": "Charm",
+        "date": "2024-07-12",
+        "cover": "https://m.media-amazon.com/images/I/71ClXCN874L.jpg"
+    },
+    {
+        "artist": "Diana Ross",
+        "album": "Swept Away",
+        "date": "1984-09-13",
+        "cover": "https://m.media-amazon.com/images/I/71fTT9T9UdL.jpg"
+    },
+    {
+        "artist": "Eminem",
+        "album": "The Death of Slim Shady (Coup De Grâce)",
+        "date": "2024-07-12",
+        "cover": "https://m.media-amazon.com/images/I/71AwHly9Z+L.jpg"
+    },
+    {
+        "artist": "Gary Numan",
+        "album": "The Pleasure Principle",
+        "date": "1979-09-07",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/75363ef419d7c11dada2c8bcfa9b6614"
+    },
+    {
+        "artist": "Ginger Root",
+        "album": "Spotlight People",
+        "date": "2017-01-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e1a1ebe1f90c1a8bc331e57c78558fe4"
+    },
+    {
+        "artist": "Ginger Root",
+        "album": "Toaster_music",
+        "date": "2017-05-08",
+        "cover": "https://m.media-amazon.com/images/I/B1DbxgxzLZS.jpg"
+    },
+    {
+        "artist": "Ginger Root",
+        "album": "Mahjong Room",
+        "date": "2018-06-29",
+        "cover": "https://m.media-amazon.com/images/I/91KTu-UZXYL.jpg"
+    },
+    {
+        "artist": "Ginger Root",
+        "album": "Toaster_Music_v2",
+        "date": "2018-06-29",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/f4f1b2d429a7f4844001ffe043f13a00"
+    },
+    {
+        "artist": "Ginger Root",
+        "album": "Fresh Sounds of Ginger Root vol. 1",
+        "date": "2019-12-21",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/41cf4f36d0dd89e4ab883cc94b37d46e"
+    },
+    {
+        "artist": "Ginger Root",
+        "album": "Weather/Slump",
+        "date": "2019-06-05",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/9efb796ed2fb951dd3d63bfc0dad7b9d"
+    },
+    {
+        "artist": "Ginger Root",
+        "album": "Rikki",
+        "date": "2020-10-23",
+        "cover": "https://m.media-amazon.com/images/I/81j8jf6p6hL.jpg"
+    },
+    {
+        "artist": "Ginger Root",
+        "album": "Toaster Music v3",
+        "date": "2020-05-22",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/a700968e927ea6d47aca23df0bc07373"
+    },
+    {
+        "artist": "Ginger Root",
+        "album": "City Slicker",
+        "date": "2021-08-20",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/9c6865592dbe88c5e456edc3dac396cd"
+    },
+    {
+        "artist": "Ginger Root",
+        "album": "Nisemono",
+        "date": "2022-09-09",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/c1f57528b434fb508ccd2df20807e331"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "album": "Appetite for Destruction",
+        "date": "1987-07-21",
+        "cover": "https://m.media-amazon.com/images/I/71nTO0DhMDL.jpg"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "album": "G N' R Lies",
+        "date": "1988-11-29",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/b7e67b28899845ffa7dd03e7ce046504"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "album": "Use Your Illusion I",
+        "date": "1991-09-17",
+        "cover": "https://m.media-amazon.com/images/I/81Jy7pgIXVL.jpg"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "album": "Use Your Illusions II",
+        "date": "1991-09-17",
+        "cover": "https://m.media-amazon.com/images/I/71gZk5MWZmL.jpg"
+    },
+    {
+        "artist": "High Zoey",
+        "album": "No Words, Just a Picture of Me",
+        "date": "2020-07-17",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/77f0ed86275dfddf035853aedefc0198"
+    },
+    {
+        "artist": "illuminati hotties",
+        "album": "Kiss Yr Frenemies",
+        "date": "2018-05-11",
+        "cover": "https://m.media-amazon.com/images/I/616VMWBoJSL.jpg"
+    },
+    {
+        "artist": "Jane Remover",
+        "album": "Frailty",
+        "date": "2021-11-12",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/543cc0aee1c6e279f9d8ce4d258bf16d"
+    },
+    {
+        "artist": "Jane Remover",
+        "album": "Teen Week",
+        "date": "2021-02-26",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/d7823bad851bffd95dddcd4bf9119789"
+    },
+    {
+        "artist": "Jane Remover",
+        "album": "Census Designated",
+        "date": "2023-10-20",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/ef3448a7fb04219c6e627a2f8060517a"
+    },
+    {
+        "artist": "minindo",
+        "album": "Ultimate ELECTRO SWING Compilation Vol.1",
+        "date": "2022-02-03",
+        "cover": "https://f4.bcbits.com/img/a0150737796_0.jpg"
+    },
+    {
+        "artist": "Modest Mouse",
+        "album": "Good News For People Who Love Bad News",
+        "date": "2004-04-06",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/0f1a6b91c82d4d6e890d00528f053512"
+    },
+    {
+        "artist": "Nine Inch Nails",
+        "album": "Quake",
+        "date": "1996-06-22",
+        "cover": "https://m.media-amazon.com/images/I/71fUmrdzvoL.jpg"
+    },
+    {
+        "artist": "Nirvana",
+        "album": "Incesticide",
+        "date": "1992-12-14",
+        "cover": "https://m.media-amazon.com/images/I/81rgrFSW1kL.jpg"
+    },
+    {
+        "artist": "Smash Mouth",
+        "album": "Fush Yu Mang",
+        "date": "1997-07-08",
+        "cover": "https://m.media-amazon.com/images/I/71Hl-FTbALL.jpg"
+    },
+    {
+        "artist": "Tears for Fears",
+        "album": "The Hurting",
+        "date": "1983-03-07",
+        "cover": "https://m.media-amazon.com/images/I/51OBNPUemZL.jpg"
+    },
+    {
+        "artist": "Tears for Fears",
+        "album": "The Seeds of Love",
+        "date": "1989-09-25",
+        "cover": "https://m.media-amazon.com/images/I/81jgySQoWYL.jpg"
+    },
+    {
+        "artist": "The Doors",
+        "album": "The Doors",
+        "date": "1967-01-04",
+        "cover": "https://m.media-amazon.com/images/I/81-mwak7jyL.jpg"
+    },
+    {
+        "artist": "tristone, (feat. Boni3 Ami3 and like two other people)",
+        "album": "Worm Paint: Official Soundtrack",
+        "date": "2024-07-19",
+        "cover": "https://f4.bcbits.com/img/a1791077887_0.jpg"
+    },
+    {
+        "artist": "Tubeway Army",
+        "album": "Replicas",
+        "date": "1979-04-06",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/08578d4dd475627f7102fd97368e7ba7"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "album": "Bastard",
+        "date": "2009-12-25",
+        "cover": "https://m.media-amazon.com/images/I/71CMS3JIYfL.jpg"
+    },
+    {
+        "artist": "Tyler, the Creator",
+        "album": "Flower Boy",
+        "date": "2017-07-21",
+        "cover": "https://m.media-amazon.com/images/I/816i6+oXSqL.jpg"
+    },
+    {
+        "artist": "Tyler, the Creator",
+        "album": "Igor",
+        "date": "2019-05-17",
+        "cover": "https://m.media-amazon.com/images/I/81FL9iS8NiL.jpg"
+    },
+    {
+        "artist": "Tyler, the Creator",
+        "album": "Call Me If You Get Lost",
+        "date": "2021-06-25",
+        "cover": "https://m.media-amazon.com/images/I/619DvhbRadS.jpg"
+    },
+    {
+        "artist": "underscores",
+        "album": "Air Freshener",
+        "date": "2016-08-26",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/6db8bbe88e3e64f46b8f3efbc54bdd9e"
+    },
+    {
+        "artist": "underscores",
+        "album": "skin purifying treatment",
+        "date": "2018-06-27",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/9f99a711d59595cf6f470ee98ad96961"
+    },
+    {
+        "artist": "underscores",
+        "album": "we never got strawberry cake",
+        "date": "2019-02-19",
+        "cover": "https://m.media-amazon.com/images/I/71nXe53yA8L.jpg"
+    },
+    {
+        "artist": "underscores",
+        "album": "character development!",
+        "date": "2020-01-15",
+        "cover": "https://m.media-amazon.com/images/I/5141gayyfQL.jpg"
+    },
+    {
+        "artist": "underscores",
+        "album": "boneyard aka fearmonger",
+        "date": "2021-12-03",
+        "cover": "https://m.media-amazon.com/images/I/91z5sXwgPgL.jpg"
+    },
+    {
+        "artist": "underscores",
+        "album": "fishmonger",
+        "date": "2021-03-25",
+        "cover": "https://m.media-amazon.com/images/I/61i4zw3F64L.jpg"
+    },
+    {
+        "artist": "underscores",
+        "album": "Wallsocket",
+        "date": "2023-09-22",
+        "cover": "https://m.media-amazon.com/images/I/91x9D5r3UkL.jpg"
     }
 ]
