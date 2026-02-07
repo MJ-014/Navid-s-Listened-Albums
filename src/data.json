@@ -3832,5 +3832,425 @@
         "album": "Wallsocket",
         "date": "2023-09-22",
         "cover": "https://m.media-amazon.com/images/I/91x9D5r3UkL.jpg"
+    },
+        {
+        "artist": "73",
+        "album": "79 Green",
+        "date": "2024-12-22",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/937bf032646180c51d15031270e70d9d"
+    },
+    {
+        "artist": "73",
+        "album": "79 Pink",
+        "date": "2024-12-22",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/3826b3fccaa9580ec0e38145e3eefafe"
+    },
+    {
+        "artist": "Black Sabbath",
+        "album": "Black Sabbath",
+        "date": "1970-02-13",
+        "cover": "https://m.media-amazon.com/images/I/91kGkX2xXWL.jpg"
+    },
+    {
+        "artist": "Black Sabbath",
+        "album": "Paranoid",
+        "date": "1970-09-18",
+        "cover": "m.media-amazon.com/images/I/81X4y++dRVL.jpg"
+    },
+    {
+        "artist": "Chappell Roan",
+        "album": "The Rise and Fall of a Midwest Princess",
+        "date": "2023-09-22",
+        "cover": "https://m.media-amazon.com/images/I/71jY27atp6L.jpg"
+    },
+    {
+        "artist": "Charli XCX",
+        "album": "Charli",
+        "date": "2019-09-13",
+        "cover": "https://m.media-amazon.com/images/I/81ylYR5rFSL.jpg"
+    },
+    {
+        "artist": "Charli XCX",
+        "album": "how i’m feeling now",
+        "date": "2020-05-15",
+        "cover": "https://m.media-amazon.com/images/I/81328jgG61L.jpg"
+    },
+    {
+        "artist": "Charli XCX",
+        "album": "CRASH",
+        "date": "2022-03-18",
+        "cover": "https://m.media-amazon.com/images/I/914vI2SSBQL.jpg"
+    },
+    {
+        "artist": "Charli XCX",
+        "album": "BRAT",
+        "date": "2024-06-07",
+        "cover": "https://m.media-amazon.com/images/I/51Bs7zujPXL.jpg"
+    },
+    {
+        "artist": "Clark Powzell",
+        "album": "Medium",
+        "date": "2011-04-14",
+        "cover": "https://f4.bcbits.com/img/a0081293315_0.jpg"
+    },
+    {
+        "artist": "Devon Hendryx",
+        "album": "Generation Y",
+        "date": "2011-01-16",
+        "cover": "https://m.media-amazon.com/images/I/91V0EiBUbBL.jpg"
+    },
+    {
+        "artist": "Devon Hendryx",
+        "album": "Joechillworld",
+        "date": "2011-06-26",
+        "cover": "https://m.media-amazon.com/images/I/81cKe1qzZPL.jpg"
+    },
+    {
+        "artist": "Devon Hendryx",
+        "album": "LISA",
+        "date": "2011-10-08",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/8ff40bf0594ca0dfea8da9f9451ce87d"
+    },
+    {
+        "artist": "Devon Hendryx",
+        "album": "The Rockwood Escape Plan",
+        "date": "2012-02-14",
+        "cover": "https://m.media-amazon.com/images/I/712HfVvwQNL.jpg"
+    },
+    {
+        "artist": "Devon Hendryx",
+        "album": "Dreamcast Summer Songs",
+        "date": "2012-02-27",
+        "cover": "https://m.media-amazon.com/images/I/71Xe53si0xL.jpg"
+    },
+    {
+        "artist": "Devon Hendryx",
+        "album": "❤️",
+        "date": "2012-09-21",
+        "cover": "https://m.media-amazon.com/images/I/81JyL4VkE+L.jpg"
+    },
+    {
+        "artist": "Devon Hendryx",
+        "album": "The Ghost~Pop Tape",
+        "date": "2013-11-11",
+        "cover": "https://m.media-amazon.com/images/I/816e-Uj-zrL.jpg"
+    },
+    {
+        "artist": "FEX",
+        "album": "Subways Of Your Mind (Like The Wind)",
+        "date": "2024-12-20",
+        "cover": "https://m.media-amazon.com/images/I/61sMEqQY+pL.jpg"
+    },
+    {
+        "artist": "Former Miss Teen New Jersey",
+        "album": "Opposing Force OST",
+        "date": "2022-06-13",
+        "cover": "https://f4.bcbits.com/img/a1402273339_0.jpg"
+    },
+    {
+        "artist": "Frank Ocean",
+        "album": "nostalgia, ULTRA.",
+        "date": "2011-03-24",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/a854782e9f6aaebbcf92d4d2bf691bc9"
+    },
+    {
+        "artist": "Freddie Mercury",
+        "album": "Mr. Bad Guy",
+        "date": "1985-04-29",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/f780936897b3e8db1a0b6322e2ff58be"
+    },
+    {
+        "artist": "Ginger Root",
+        "album": "SHINBANGUMI",
+        "date": "2024-09-13",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/820ec86a027cf8ed812d8a60808e63f6"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "album": "“The Spaghetti Incident?!”",
+        "date": "1993-11-23",
+        "cover": "https://m.media-amazon.com/images/I/81dFehaX0+L.jpg"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "album": "Chinese Democracy",
+        "date": "2008-11-23",
+        "cover": "https://m.media-amazon.com/images/I/81sZC1WMDpL.jpg"
+    },
+    {
+        "artist": "Habib",
+        "album": "Mard-e Tanha-ye Shab",
+        "date": "1977",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/5b7cb93b4d4d5dd9c392ad467c6d856e"
+    },
+    {
+        "artist": "Hubol",
+        "album": "big strong flower ❁",
+        "date": "2014-05-11",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/fc3701eebccc8cb3db559f76e5273944"
+    },
+    {
+        "artist": "Hubol",
+        "album": "little flower ✿",
+        "date": "2014-05-11",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/37807c793c6b5748bcfb422ac965504c"
+    },
+    {
+        "artist": "illuminati hotties",
+        "album": "FREE I.H: This Is Not the One You’ve Been Waiting For",
+        "date": "2020",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/18867ffaed1a05dc8a61e5595a159a14"
+    },
+    {
+        "artist": "illuminati hotties",
+        "album": "Let Me Do One More",
+        "date": "2021",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/688b5130be50513046f7f21ddbf0806a"
+    },
+    {
+        "artist": "INABAKUMORI",
+        "album": "WEATHER STATION",
+        "date": "2022-03-23",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/3a48ba4f44a6c3464a1e4164aec84345"
+    },
+    {
+        "artist": "jschlatt",
+        "album": "A Very 1999 Christmas",
+        "date": "2024-12-02",
+        "cover": "https://m.media-amazon.com/images/I/61yL798v27L.jpg"
+    },
+    {
+        "artist": "Kendrick Lamar",
+        "album": "untitled unmastered.",
+        "date": "2016-03-04",
+        "cover": "https://m.media-amazon.com/images/I/71N5YvXg5ZL.jpg"
+    },
+    {
+        "artist": "Kendrick Lamar",
+        "album": "DAMN.",
+        "date": "2017-04-14",
+        "cover": "https://m.media-amazon.com/images/I/81Izi+sKqyL.jpg"
+    },
+    {
+        "artist": "Kendrick Lamar",
+        "album": "Mr. Morale & The Big Steppers",
+        "date": "2022-05-13",
+        "cover": "https://m.media-amazon.com/images/I/61Sy94hfLfL.jpg"
+    },
+    {
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "date": "2024-11-21",
+        "cover": "https://m.media-amazon.com/images/I/61RmVkSbP7L.jpg"
+    },
+    {
+        "artist": "Kero Kero Bonito",
+        "album": "Intro Bonito",
+        "date": "2013-09-30",
+        "cover": "https://m.media-amazon.com/images/I/71mAqL+uz0L.jpg"
+    },
+    {
+        "artist": "Kero Kero Bonito",
+        "album": "Bonito Generation",
+        "date": "2016-10-21",
+        "cover": "https://m.media-amazon.com/images/I/91M-26ubfbL.jpg"
+    },
+    {
+        "artist": "Kero Kero Bonito",
+        "album": "TOTEP",
+        "date": "2018-02-20",
+        "cover": "https://m.media-amazon.com/images/I/91BESJffMWL.jpg"
+    },
+    {
+        "artist": "Kero Kero Bonito",
+        "album": "Time 'n' Place",
+        "date": "2018-10-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/91d0fdd1c5d2881c361c0d1e7dd3f990"
+    },
+    {
+        "artist": "Kero Kero Bonito",
+        "album": "Civilisation",
+        "date": "2021-09-10",
+        "cover": "https://m.media-amazon.com/images/I/91kr2BS3HeL.jpg"
+    },
+    {
+        "artist": "Khusugtun",
+        "album": "Jangar",
+        "date": "2020-08-28",
+        "cover": "https://m.media-amazon.com/images/I/71Wf-nK61TL.jpg"
+    },
+    {
+        "artist": "Magdalena Bay",
+        "album": "day/pop",
+        "date": "2019-01-15",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/b2024d96e95aa7f9e8dfd891b0e6f22a"
+    },
+    {
+        "artist": "Magdalena Bay",
+        "album": "night/pop",
+        "date": "2019-01-17",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/c923aedf07059d5e777ae4f14d099baf"
+    },
+    {
+        "artist": "Magdalena Bay",
+        "album": "mini mix vol. 1",
+        "date": "2019-07-19",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/974f6dd913f8a2a6209a3c0c2f04e95c"
+    },
+    {
+        "artist": "Magdalena Bay",
+        "album": "A Little Rhythm and a Wicked Feeling",
+        "date": "2020-03-13",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/ed61ac107a08b14ed74b261462148a2c"
+    },
+    {
+        "artist": "Magdalena Bay",
+        "album": "mini mix vol. 2",
+        "date": "2020-11-20",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/35875d7b0d6a4ab17ede4f82ecc16c30"
+    },
+    {
+        "artist": "Magdalena Bay",
+        "album": "mini mix vol. 3",
+        "date": "2023-04-13",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/c4407904c1910709ca094a4d18dc2e7b"
+    },
+    {
+        "artist": "Magdalena Bay",
+        "album": "Imaginal Disk",
+        "date": "2024-08-23",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/6c18150ddc245055c6a2c3b6a3b546cd"
+    },
+    {
+        "artist": "Motörhead",
+        "album": "Motörhead",
+        "date": "1997-01-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/88f83740025014c45d71b5d2a7928d57"
+    },
+    {
+        "artist": "Pink Floyd",
+        "album": "A Saucerful of Secrets",
+        "date": "1968-06-29",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e1484cbdafb649a5900bcdf5be4a89df"
+    },
+    {
+        "artist": "Pink Floyd",
+        "album": "More",
+        "date": "1969-06-15",
+        "cover": "https://m.media-amazon.com/images/I/71O41KaDA4L.jpg"
+    },
+    {
+        "artist": "Pink Floyd",
+        "album": "Ummagumma",
+        "date": "1969-10-25",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/acb8bbe5d8d2466c91522a7fb59cfcbc"
+    },
+    {
+        "artist": "Porter Robinson",
+        "album": "SMILE! :D",
+        "date": "2024-07-26",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/5f771af9f91a9397e4b34b7fcc79001d"
+    },
+    {
+        "artist": "Queen",
+        "album": "Flash Gordon",
+        "date": "1980-12-08",
+        "cover": "https://m.media-amazon.com/images/I/61VFC8Yx+rS.jpg"
+    },
+    {
+        "artist": "Queen",
+        "album": "The Game",
+        "date": "1980-06-30",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/979320e30b5947b4c79fce8eec967037"
+    },
+    {
+        "artist": "Queen",
+        "album": "Hot Space",
+        "date": "1982-05-21",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/a5ebfc3e9e14b96f5e2452eb152cccb6"
+    },
+    {
+        "artist": "Queen",
+        "album": "The Works",
+        "date": "1984-02-27",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e34924ed4e02fa4cd228e21c8cb8a141"
+    },
+    {
+        "artist": "Queen",
+        "album": "A Kind Of Magic",
+        "date": "1986-06-02",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/4913b5e96d6dd388f7e3fcf3786b27ba"
+    },
+    {
+        "artist": "Queen",
+        "album": "The Miracle",
+        "date": "1989-05-22",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/f00ad6f81e9b0543fc936821f8662567"
+    },
+    {
+        "artist": "Queen",
+        "album": "Innuendo",
+        "date": "1991-02-04",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/52446a599fecf5053c8ff26dd8f5db4a"
+    },
+    {
+        "artist": "Queen",
+        "album": "Made In Heaven",
+        "date": "1995-11-06",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/09031dba14134d1fcd5ff4b4a6d65ebe"
+    },
+    {
+        "artist": "Radiohead",
+        "album": "Hail to the Thief",
+        "date": "2003-06-09",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/55ac8f97bde6cbe5e9a8857b435457e9"
+    },
+    {
+        "artist": "Radiohead",
+        "album": "In Rainbows",
+        "date": "2007-10-10",
+        "cover": "https://m.media-amazon.com/images/I/91VHRPtBtFL.jpg"
+    },
+    {
+        "artist": "Radiohead",
+        "album": "The King of Limbs",
+        "date": "2011-02-18",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/6a7f33ec72e1483887133aa05acff4f6"
+    },
+    {
+        "artist": "Radiohead",
+        "album": "A Moon Shaped Pool",
+        "date": "2016-05-08",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/29be89c2a43a8c8ba7765704736ae4db"
+    },
+    {
+        "artist": "Rammstein",
+        "album": "Herzeleid",
+        "date": "1995-09-24",
+        "cover": "https://m.media-amazon.com/images/I/81FmydPDbtL.jpg"
+    },
+    {
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "date": "2024-08-23",
+        "cover": "https://m.media-amazon.com/images/I/71B8Nn+-72L.jpg"
+    },
+    {
+        "artist": "Stereolab",
+        "album": "Dots and Loops",
+        "date": "1997-09-23",
+        "cover": "https://m.media-amazon.com/images/I/71KyUj1Nk4L.jpg"
+    },
+    {
+        "artist": "The Doors",
+        "album": "Strange Days",
+        "date": "1967-09-25",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e05182fa6856e132b02c9e1d31ce0b96"
+    },
+    {
+        "artist": "Tyler, the Creator",
+        "album": "CHROMAKOPIA",
+        "date": "2024-10-28",
+        "cover": "https://m.media-amazon.com/images/I/61T3m1XH8yL.jpg"
     }
 ]
