@@ -5128,5 +5128,905 @@
         "album": "Yankee Hotel Foxtrot",
         "date": "2002-04-23",
         "cover": "https://lastfm.freetls.fastly.net/i/u/77eb2d30c7e86c625e0455dc59780be8"
+    },
+        {
+        "artist": "A Tribe Called Quest",
+        "album": "People's Instinctive Travels and the Paths of Rhythm",
+        "date": "1990-04-17",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/edb8b64f88a8fb0f91e11c8d5718fcdd"
+    },
+    {
+        "artist": "A Tribe Called Quest",
+        "album": "The Low End Theory",
+        "date": "1991-09-24",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/31db720e95da701c85c5c2d56ed6a8be"
+    },
+    {
+        "artist": "A Tribe Called Quest",
+        "album": "Midnight Marauders",
+        "date": "1993-11-09",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/7fb142087274a5500980b4befe4a7b13"
+    },
+    {
+        "artist": "A Tribe Called Quest",
+        "album": "Beats, Rhymes and Life",
+        "date": "1996-07-30",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/b8450de1fdc93fe18131661068e89141"
+    },
+    {
+        "artist": "A Tribe Called Quest",
+        "album": "The Love Movement",
+        "date": "1998-09-29",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/b89278c9909649bc987e1c2adbbdfa94"
+    },
+    {
+        "artist": "A Tribe Called Quest",
+        "album": "We Got It From Here… Thank You 4 Your Service",
+        "date": "2016-11-11",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/03a91bbace96f28ec78737ae9eed4857"
+    },
+    {
+        "artist": "Adrianne Lenker",
+        "album": "Bright Future",
+        "date": "2024-03-22",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/da6944e9d794e31fc410959f81850732"
+    },
+    {
+        "artist": "Akira Yamaoka",
+        "album": "Silent Hill Original Soundtracks",
+        "date": "1999-03-05",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e3876e953ec74d48a71f448e681226d8"
+    },
+    {
+        "artist": "Akira Yamaoka",
+        "album": "Silent Hill 2 Original Soundtracks",
+        "date": "2001-10-03",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/4a438d2e1d0ad278ca925877ddd7304a"
+    },
+    {
+        "artist": "Bola",
+        "album": "Soup",
+        "date": "1998-03-01",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjqP8cb-G4gxELYl1srO02YPKd-ZIHK-xOqg&s"
+    },
+    {
+        "artist": "Chapterhouse",
+        "album": "Whirlpool",
+        "date": "1991-04-29",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/fd3c48190e82d5b039bb55ca61207d46"
+    },
+    {
+        "artist": "Charli XCX",
+        "album": "Pop 2",
+        "date": "2017-12-15",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/34da6e54b17c4f47f36d19f196dc207f"
+    },
+    {
+        "artist": "Collective Soul",
+        "album": "Hints Allegations and Things Left Unsaid",
+        "date": "1993-06-22",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/7c76edd7fb3156aff35f4165aecd91c7"
+    },
+    {
+        "artist": "Daniel Avery",
+        "album": "Ultra Truth",
+        "date": "2022-11-04",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/362356af3c03a95a4b7f4aff8a4683d6"
+    },
+    {
+        "artist": "Deadguy",
+        "album": "Fixation on a Coworker",
+        "date": "1995-11-20",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/ab432552c3fb6d399e42a5510d0377bd"
+    },
+    {
+        "artist": "Deadguy",
+        "album": "Near-Death Travel Services",
+        "date": "2025-07-27",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/326489141b2fec6be79a8952281a73ca"
+    },
+    {
+        "artist": "fakemink",
+        "album": "London's Saviour",
+        "date": "2023-12-22",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/5e324c7a9b2252849aa718b9584482a3"
+    },
+    {
+        "artist": "First Human Ferro",
+        "album": "Guernica Macrocosmica",
+        "date": "2003-10-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/a7a8a16a11e0453691c51c3d6a6ce1cc"
+    },
+    {
+        "artist": "Genesis",
+        "album": "From Genesis to Revelation",
+        "date": "1969-03-07",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/eaae53cd999446408a83b8d22b9595d3"
+    },
+    {
+        "artist": "Genesis",
+        "album": "Trespass",
+        "date": "1970-10-23",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/13349c7f502244da9a6ee2ab04448537"
+    },
+    {
+        "artist": "Genesis",
+        "album": "Nursery Cryme",
+        "date": "1971-11-12",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/3f264caee74249b8c9b1e0cc7998474d"
+    },
+    {
+        "artist": "Genesis",
+        "album": "Foxtrot",
+        "date": "1972-09-15",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/9ef2e04f7f8e4f42cf9218a1d7074d62"
+    },
+    {
+        "artist": "Genesis",
+        "album": "Selling England by the Pound",
+        "date": "1973-10-12",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/53310f6c479d4bc83f5607b6f9e07dbf"
+    },
+    {
+        "artist": "Genesis",
+        "album": "The Lamb Lies Down on Broadway",
+        "date": "1974-11-18",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/1ea1fae320e842ceb2a8a2ae53e01d53"
+    },
+    {
+        "artist": "Global Communication",
+        "album": "76:14",
+        "date": "1994-06-01",
+        "cover": "https://m.media-amazon.com/images/I/81eF2cPwuyL.jpg"
+    },
+    {
+        "artist": "Guernica",
+        "album": "Kaizō e no Yakudō",
+        "date": "1982-06-21",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/5aa3137f4e7346d2c6c006130b81ce86"
+    },
+    {
+        "artist": "Gustavo Cerati",
+        "album": "Bocanada",
+        "date": "1999-06-28",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/1d35d02a8a684a0fc2abf2ab5d450a21"
+    },
+    {
+        "artist": "House of Pain",
+        "album": "House of Pain",
+        "date": "1992-07-28",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/feaa568da8d34a3785eb34021d83d6a5"
+    },
+    {
+        "artist": "Isao Tomita",
+        "album": "Snowflakes Are Dancing",
+        "date": "1974-04-12",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e7ee796e5f974167c1596cb632f031f8"
+    },
+    {
+        "artist": "Lalleshwari",
+        "album": "Lullabies in a Glass Wilderness",
+        "date": "2005-11-03",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/4ef12f9668bd41c0a31ac6903fb144ec"
+    },
+    {
+        "artist": "Ministry",
+        "album": "Twitch",
+        "date": "1986-03-12",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/b82d87d892c744ac9139d8909c35ca86"
+    },
+    {
+        "artist": "Ministry",
+        "album": "The Land of Rape and Honey",
+        "date": "1988-10-11",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/4b8032f7394c4a15a9112dbae1f146d6"
+    },
+    {
+        "artist": "Ministry",
+        "album": "The Mind Is a Terrible Thing to Taste",
+        "date": "1989-11-14",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/71b9e30cb1d0c147d3b0cff914db3784"
+    },
+    {
+        "artist": "Ministry",
+        "album": "ΚΕΦΑΛΗΞΘ",
+        "date": "1992-07-14",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/929e666c25d0478db1c4dcaf09224533"
+    },
+    {
+        "artist": "Mount Eerie",
+        "album": "A Crow Looked at Me",
+        "date": "2017-03-24",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/a08475fd09157515a411dc2577e3e58c"
+    },
+    {
+        "artist": "My Chemical Romance",
+        "album": "I Brought You My Bullets, You Brought Me Your Love",
+        "date": "2002-07-23",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/92e6524e93b48f6da675fdbfed243939"
+    },
+    {
+        "artist": "My Chemical Romance",
+        "album": "Three Cheers for Sweet Revenge",
+        "date": "2004-06-08",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/02bc741940734d1b9b8c99673f5cd61d"
+    },
+    {
+        "artist": "My Chemical Romance",
+        "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+        "date": "2010-11-22",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/8373bd86850142ccbfaae887890ff3f3"
+    },
+    {
+        "artist": "My Chemical Romance",
+        "album": "Conventional Weapons",
+        "date": "2013-02-05",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/b/b0/Mychemconvweap.jpg"
+    },
+    {
+        "artist": "Oneohtrix Point Never",
+        "album": "Russian Mind",
+        "date": "2009-11-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/367a11b3688f69ee0cddef99f8cd708d"
+    },
+    {
+        "artist": "Orbital",
+        "album": "In Sides",
+        "date": "1996-04-29",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/8454bd8a568c464786e8dfe2cb0f4619"
+    },
+    {
+        "artist": "Pat the Bunny",
+        "album": "Probably Nothing, Possibly Everything",
+        "date": "2014-12-18",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/028209a8310b42d57a07e6a7f7dfc9de"
+    },
+    {
+        "artist": "Pixies",
+        "album": "Come On Pilgrim",
+        "date": "1987-09-28",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/be0b21901192409ea2aa1820f0e9cf78"
+    },
+    {
+        "artist": "Pixies",
+        "album": "Surfer Rosa",
+        "date": "1988-03-21",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/448d4ea7928b50576f6d75981e370836"
+    },
+    {
+        "artist": "Pixies",
+        "album": "Doolittle",
+        "date": "1989-04-17",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/6cf55efba65b9f89db4e2754694c0b0e"
+    },
+    {
+        "artist": "Radiohead",
+        "album": "In Rainbows Disk 2",
+        "date": "2009-06-09",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/a0c356cea23a6b2acfc062c4a4129099"
+    },
+    {
+        "artist": "Rush",
+        "album": "Rush",
+        "date": "1974-03-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/2afc28492d60636d20dfc1f48c984168"
+    },
+    {
+        "artist": "Rush",
+        "album": "Fly by Night",
+        "date": "1975-02-15",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/c03bc6cdba1f474cc76dd8d57f55514f"
+    },
+    {
+        "artist": "Rush",
+        "album": "Caress of Steel",
+        "date": "1975-09-24",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/8540eaf7e8814629c63285fbfecf6fcf"
+    },
+    {
+        "artist": "Rush",
+        "album": "2112",
+        "date": "1976-04-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/692bc269c47ed077a348b3d38d629fbd"
+    },
+    {
+        "artist": "Rush",
+        "album": "A Farewell to Kings",
+        "date": "1977-09-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/6d2d82e03307f159fd79e285ddb17f9b"
+    },
+    {
+        "artist": "Rush",
+        "album": "Hemispheres",
+        "date": "1978-10-29",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/8301ce0fa39133134ddfec2297bd4392"
+    },
+    {
+        "artist": "Rush",
+        "album": "Permanent Waves",
+        "date": "1980-01-14",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/c59307be5ab9489dc89ec2884c6edcb3"
+    },
+    {
+        "artist": "Rush",
+        "album": "Moving Pictures",
+        "date": "1981-02-09",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/ee9763343f0e4df399c0c3a47860d202"
+    },
+    {
+        "artist": "Sadness & abriction",
+        "album": "That Lasts Forever",
+        "date": "2025-07-08",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/9e4c78f1cefb3d0a8a9df736fa6a8619"
+    },
+    {
+        "artist": "Static-X",
+        "album": "Wisconsin Death Trip",
+        "date": "1999-03-23",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/29fa3edf5a98cd38437b18a99f744bda"
+    },
+    {
+        "artist": "Talking Heads",
+        "album": "Talking Heads 77",
+        "date": "1977-09-16",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/ce89a8fda4a049fe88cc4a568db5b8a4"
+    },
+    {
+        "artist": "Talking Heads",
+        "album": "More Songs About Buildings and Food",
+        "date": "1978-07-07",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/ef8b580a465f618f29d9c93e122d0576"
+    },
+    {
+        "artist": "Talking Heads",
+        "album": "Fear of Music",
+        "date": "1979-08-03",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e73f7930803e18c8e0b1fb3ae9c30457"
+    },
+    {
+        "artist": "Talking Heads",
+        "album": "Remain In Light",
+        "date": "1980-10-08",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/42c879426a1149c5bf5d801caea91721"
+    },
+    {
+        "artist": "Talking Heads",
+        "album": "Speaking in Tongues",
+        "date": "1983-06-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/759de2ff8d5c89c03223396f2078d916"
+    },
+    {
+        "artist": "Talking Heads",
+        "album": "Little Creatures",
+        "date": "1985-06-10",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/741760ca51184546b9e48ce8208ca953"
+    },
+    {
+        "artist": "Talking Heads",
+        "album": "True Stories",
+        "date": "1986-10-08",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/f85922d039d4413497a70b735e0fac9e"
+    },
+    {
+        "artist": "Talking Heads",
+        "album": "Naked",
+        "date": "1988-03-15",
+        "cover": "https://m.media-amazon.com/images/I/91rPs4ePjpL.jpg"
+    },
+    {
+        "artist": "The Antlers",
+        "album": "Hospice",
+        "date": "2009-03-03",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/c13c372525a1e0dbdadb33c2ce0ac81d"
+    },
+    {
+        "artist": "The B-52's",
+        "album": "The B-52's",
+        "date": "1979-07-06",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/86dafe65cb3f0e668de19604a6be52c0"
+    },
+    {
+        "artist": "The Caretaker",
+        "album": "Selected Memories From the Haunted Ballroom",
+        "date": "1999-08-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/46be70c1ded42bed872bc3597f177557"
+    },
+    {
+        "artist": "The Hollies",
+        "album": "Hollies",
+        "date": "1974-03-01",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Hollies-Hollies.jpg/250px-Hollies-Hollies.jpg"
+    },
+    {
+        "artist": "The Mamas & the Papas",
+        "album": "If You Can Believe Your Eyes And Ears",
+        "date": "1966-02-28",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/80382d7a6bba7a1e5e58840e21cb1ccf"
+    },
+    {
+        "artist": "The Mamas & the Papas",
+        "album": "The Mamas & the Papas",
+        "date": "1966-08-30",
+        "cover": "https://m.media-amazon.com/images/I/71KyP3y8ErL.jpg"
+    },
+    {
+        "artist": "The Mamas & the Papas",
+        "album": "Deliver",
+        "date": "1967-02-02",
+        "cover": "https://m.media-amazon.com/images/I/816ZQPFptFL.jpg"
+    },
+    {
+        "artist": "The Mamas & the Papas",
+        "album": "The Papas & The Mamas",
+        "date": "1968-05-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/dc8bc834d07e4b0e2c5865c939b0823e"
+    },
+    {
+        "artist": "The Mamas & the Papas",
+        "album": "People Like Us",
+        "date": "1971-11-01",
+        "cover": "https://m.media-amazon.com/images/I/81ms-Ft8mOL.jpg"
+    },
+    {
+        "artist": "The Mars Volta",
+        "album": "De-Loused In The Comatorium",
+        "date": "2003-06-17",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/619475af6b778f1d2c49d5f53eb759d7"
+    },
+    {
+        "artist": "The Mars Volta",
+        "album": "Frances the Mute",
+        "date": "2005-03-01",
+        "cover": "https://m.media-amazon.com/images/I/81MmIm0c1rL.jpg"
+    },
+    {
+        "artist": "The Microphones",
+        "album": "Don't Wake Me Up",
+        "date": "1999-08-24",
+        "cover": "https://m.media-amazon.com/images/I/61tEV6Hw2nL.jpg"
+    },
+    {
+        "artist": "The Microphones",
+        "album": "It Was Hot, We Stayed in the Water",
+        "date": "2000-09-26",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/a4f9bf1b4a7843328cd0c4efc6075fe4"
+    },
+    {
+        "artist": "The Microphones",
+        "album": "The Glow Pt. 2",
+        "date": "2001-09-11",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/7ad8d224161a6d15ff35ecbe1dfdf78b"
+    },
+    {
+        "artist": "The Moody Blues",
+        "album": "Days of Future Passed",
+        "date": "1967-11-10",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/3ca712267bf96a4a9456b2e388387c23"
+    },
+    {
+        "artist": "The White Stripes",
+        "album": "De Stijl",
+        "date": "2000-06-20",
+        "cover": "https://m.media-amazon.com/images/I/61te5i8gDfL.jpg"
+    },
+    {
+        "artist": "The White Stripes",
+        "album": "White Blood Cells",
+        "date": "2001-07-03",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/eaaaf0c8ed454b9412e931343abef973"
+    },
+    {
+        "artist": "The White Stripes",
+        "album": "Elephant",
+        "date": "2003-04-01",
+        "cover": "https://m.media-amazon.com/images/I/618MXEpsYUL.jpg"
+    },
+    {
+        "artist": "The White Stripes",
+        "album": "Get Behind Me Satan",
+        "date": "2005-06-07",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/03d306037b424544b7d473afb8329e13"
+    },
+    {
+        "artist": "The White Stripes",
+        "album": "Icky Thump",
+        "date": "2007-06-19",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/2d1e93897e38438e9a2f4b89bf3961bd"
+    },
+    {
+        "artist": "Toby Fox",
+        "album": "DELTARUNE Chapters 3+4 (Original Game Soundtrack)",
+        "date": "2025-06-04",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/7dfd5a37258bccd345f72099b0c85a07"
+    },
+    {
+        "artist": "Tom Tom Club",
+        "album": "Tom Tom Club",
+        "date": "1981-10-01",
+        "cover": "lastfm.freetls.fastly.net/i/u/db07bc66c6babdf71f9ceb236947a13d"
+    },
+    {
+        "artist": "Tyler, the Creator",
+        "album": "DON'T TAP THE GLASS",
+        "date": "2025-07-21",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/7af4c147f5c8134c22399bbb0e1cae02"
+    },
+    {
+        "artist": "Uboa",
+        "album": "The Origin of My Depression",
+        "date": "2019-02-14",
+        "cover": "https://m.media-amazon.com/images/I/71zIQm3jehL.jpg"
+    },
+    {
+        "artist": "Woob",
+        "album": "Woob 1194",
+        "date": "1994-08-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/4282c81ed393478c94fbe46bd3cf89a5"
+    },
+    {
+        "artist": "Yes",
+        "album": "Yes",
+        "date": "1969-07-25",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/c3be3b26d5870a4d91e55f4ea8d5e218"
+    },
+    {
+        "artist": "Yes",
+        "album": "Time and a Word",
+        "date": "1970-07-24",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/2635348da5194f0db687d5606b62b2dd"
+    },
+    {
+        "artist": "Yes",
+        "album": "Fragile",
+        "date": "1971-11-26",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e22b84709a880a2bb2ea0e70ffb2bd6c"
+    },
+    {
+        "artist": "Yes",
+        "album": "The Yes Album",
+        "date": "1971-02-19",
+        "cover": "https://m.media-amazon.com/images/I/71zk3SXwg3L.jpg"
+    },
+    {
+        "artist": "Yes",
+        "album": "Close To The Edge",
+        "date": "1972-09-13",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/a71664d03340ca645a76877d7a247c6b"
+    },
+    {
+        "artist": "ABBA",
+        "album": "The Album",
+        "date": "1977-12-12",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/68d78e1e11c7c5f08d94d60a7ca90835"
+    },
+    {
+        "artist": "ABBA",
+        "album": "Voulez-Vous",
+        "date": "1979-04-23",
+        "cover": "https://m.media-amazon.com/images/I/71qYM+2HirL.jpg"
+    },
+    {
+        "artist": "ABBA",
+        "album": "Super Trouper",
+        "date": "1980-11-03",
+        "cover": "https://m.media-amazon.com/images/I/71g5GsEp8PL.jpg"
+    },
+    {
+        "artist": "ABBA",
+        "album": "The Visitors",
+        "date": "1981-11-30",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/1d47c3aad491244599996aa6a12485fc"
+    },
+    {
+        "artist": "ABBA",
+        "album": "Voyage",
+        "date": "2021-11-05",
+        "cover": "https://m.media-amazon.com/images/I/51yv4yWl25L.jpg"
+    },
+    {
+        "artist": "Animal Collective",
+        "album": "Spirit They're Gone, Spirit They've Vanished",
+        "date": "2000-07-31",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/7b4d941f69c74be4ac08c91ab90a773a"
+    },
+    {
+        "artist": "Animal Collective",
+        "album": "Danse Manatee",
+        "date": "2001-06-30",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/20fb9303fb75b4e117637ad73424c9f6"
+    },
+    {
+        "artist": "Animal Collective",
+        "album": "Campfire Songs",
+        "date": "2003-04-02",
+        "cover": "https://m.media-amazon.com/images/I/61lkAawp9RL.jpg"
+    },
+    {
+        "artist": "Animal Collective",
+        "album": "Here Comes the Indian",
+        "date": "2003-06-17",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/9cebf2708f83fe0b181647eee815b121"
+    },
+    {
+        "artist": "Animal Collective",
+        "album": "Sung Tongs",
+        "date": "2004-05-03",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/767f651cb8fc3ebdeeb9ee167ff226ce"
+    },
+    {
+        "artist": "Animal Collective",
+        "album": "Feels",
+        "date": "2005-10-18",
+        "cover": "https://m.media-amazon.com/images/I/71utgwEvjsL.jpg"
+    },
+    {
+        "artist": "Animal Collective",
+        "album": "Strawberry Jam",
+        "date": "2007-09-10",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/bfb9335c13ec4f5681803ee9a2938070"
+    },
+    {
+        "artist": "Animal Collective",
+        "album": "Merriweather Post Pavilion",
+        "date": "2009-01-20",
+        "cover": "https://m.media-amazon.com/images/I/811CpATN+8L.jpg"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "album": "Whatever People Say I Am, That's What I'm Not",
+        "date": "2006-01-23",
+        "cover": "https://m.media-amazon.com/images/I/61-MakR51dL.jpg"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "album": "Favourite Worst Nightmare",
+        "date": "2007-04-20",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/809263677d3265378380bd3978b5c8d8"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "album": "Humbug",
+        "date": "2009-08-24",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/bbe6b6de68d1300b6b5a82ee82c2091f"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "album": "Suck It and See",
+        "date": "2011-06-06",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/9ed02f3d156748761ddc768b894db5cf"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "album": "AM",
+        "date": "2013-09-09",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/4f791b07f09847bee73687e483c389d8"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "album": "Tranquility Base Hotel & Casino",
+        "date": "2018-05-11",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/c7f6da092ec3fd3bdb02e3ff71c56fea"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "album": "The Car",
+        "date": "2022-10-21",
+        "cover": "https://m.media-amazon.com/images/I/91yDNpkEFUL.jpg"
+    },
+    {
+        "artist": "Cameron Winter",
+        "album": "Heavy Metal",
+        "date": "2024-12-06",
+        "cover": "https://m.media-amazon.com/images/I/714ner1fkcL.jpg"
+    },
+    {
+        "artist": "Fishmans",
+        "album": "Chappie, Don't Cry",
+        "date": "1991-05-21",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/7440e5f4c61205e7e04efd14c5e85841"
+    },
+    {
+        "artist": "Fishmans",
+        "album": "King Master George",
+        "date": "1992-10-21",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/8527288d35474455bcc0b09934feba2f"
+    },
+    {
+        "artist": "Fishmans",
+        "album": "Neo Yankees' Holiday",
+        "date": "1993-07-21",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/28c8850798484cf2883a9abc0932753c"
+    },
+    {
+        "artist": "Fishmans",
+        "album": "Orange",
+        "date": "1994-10-21",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/8e60243349b985297ce5e072bcc3a4c2"
+    },
+    {
+        "artist": "Fishmans",
+        "album": "Oh! Mountain",
+        "date": "1995-03-17",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/72f6cae746ee4ea6b0ee3a7546130b70"
+    },
+    {
+        "artist": "Fishmans",
+        "album": "空中キャンプ",
+        "date": "1996-02-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/6c32a6b2cf6d4dc6b9cc3936d3675553"
+    },
+    {
+        "artist": "Fishmans",
+        "album": "LONG SEASON",
+        "date": "1996-10-25",
+        "cover": "https://m.media-amazon.com/images/I/81loHiXM2ML.jpg"
+    },
+    {
+        "artist": "Fishmans",
+        "album": "宇宙 日本 世田谷",
+        "date": "1997-07-24",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/3ef038bd6fe6cdec80e760d5cb19b4e9"
+    },
+    {
+        "artist": "Fishmans",
+        "album": "98.12.28 男達の別れ",
+        "date": "1999-09-29",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/04d201dfb21a0837b1a3676c54c45cba"
+    },
+    {
+        "artist": "Geese",
+        "album": "A Beautiful Memory",
+        "date": "2018-07-13",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/772371950548c6a1d08a2ef34286e889"
+    },
+    {
+        "artist": "Geese",
+        "album": "Projector",
+        "date": "2021-10-29",
+        "cover": "https://m.media-amazon.com/images/I/61ubxMAnU+L.jpg"
+    },
+    {
+        "artist": "Geese",
+        "album": "3D Country",
+        "date": "2023-06-23",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/cacb005926cc26320a5ff537288cc466"
+    },
+    {
+        "artist": "Geese",
+        "album": "4D Country",
+        "date": "2023-10-13",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/589e54300b95d0c1d26a98f744d8c8a9"
+    },
+    {
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "date": "2025-09-26",
+        "cover": "https://m.media-amazon.com/images/I/51ZnWZglUbL.jpg"
+    },
+    {
+        "artist": "Jane Remover",
+        "album": "Revengeseekerz",
+        "date": "2025-04-04",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/3a8273e244da4e6229fc5b26c12d8e01"
+    },
+    {
+        "artist": "JPEGMAFIA",
+        "album": "Communist Slow Jams",
+        "date": "2015-04-02",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e0d3ad9d969d5e420fda7ff312c5dd1c"
+    },
+    {
+        "artist": "JPEGMAFIA",
+        "album": "Darkskin Manson",
+        "date": "2015-05-15",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/a0b84747f243ea6b293b2d31a04bfce1"
+    },
+    {
+        "artist": "JPEGMAFIA",
+        "album": "Black Ben Carson",
+        "date": "2016-02-15",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/3ae588b7622979cad05ca00e427ec167"
+    },
+    {
+        "artist": "JPEGMAFIA",
+        "album": "Darkskin Manson EP",
+        "date": "2017-01-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/06c3aec4d4d09b1cf0012bb27a0a351e"
+    },
+    {
+        "artist": "JPEGMAFIA",
+        "album": "Not on Veteran!",
+        "date": "2017-07-23",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/968f1dced35540effe9a66d130ce5c44"
+    },
+    {
+        "artist": "JPEGMAFIA",
+        "album": "Veteran",
+        "date": "2018-01-19",
+        "cover": "https://m.media-amazon.com/images/I/61-zAdSRgoL.jpg"
+    },
+    {
+        "artist": "JPEGMAFIA",
+        "album": "All My Heroes Are Cornballs",
+        "date": "2019-09-13",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/2c57f9f11aa9e709704bd26353450267"
+    },
+    {
+        "artist": "JPEGMAFIA",
+        "album": "EP!",
+        "date": "2020-11-06",
+        "cover": "https://m.media-amazon.com/images/I/81L0yn1JdsL.jpg"
+    },
+    {
+        "artist": "JPEGMAFIA",
+        "album": "EP2!",
+        "date": "2021-02-12",
+        "cover": "https://m.media-amazon.com/images/I/71ufPDRfKRL.jpg"
+    },
+    {
+        "artist": "JPEGMAFIA",
+        "album": "LP!",
+        "date": "2021-10-22",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/c5d656e601282fcd97f5e91a2725c7fb"
+    },
+    {
+        "artist": "JPEGMAFIA",
+        "album": "freestyles",
+        "date": "2022-02-23",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/44b0f6f3e08cf8177d256aa3c63d68f2"
+    },
+    {
+        "artist": "JPEGMAFIA & Danny Brown",
+        "album": "SCARING THE HOES DLC PACK",
+        "date": "2023-07-11",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/347ef09b19694c166e5b87f0a5ad746e"
+    },
+    {
+        "artist": "JPEGMAFIA & Danny Brown",
+        "album": "Scaring the Hoes",
+        "date": "2023-03-24",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/2821437a8e96ae6a5400216ab2d5e0c3"
+    },
+    {
+        "artist": "JPEGMAFIA",
+        "album": "I LAY DOWN MY LIFE FOR YOU",
+        "date": "2024-08-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/94557c2833fdd6e1e75f0aa943baab78"
+    },
+    {
+        "artist": "Tame Impala",
+        "album": "Innerspeaker",
+        "date": "2010-05-21",
+        "cover": "https://m.media-amazon.com/images/I/81x1Vyy6zZL.jpg"
+    },
+    {
+        "artist": "Tame Impala",
+        "album": "Lonerism",
+        "date": "2012-10-05",
+        "cover": "https://m.media-amazon.com/images/I/814I-9YDa5L.jpg"
+    },
+    {
+        "artist": "Tame Impala",
+        "album": "The Slow Rush",
+        "date": "2020-02-14",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e3b52663260500e25bd07b4d8e322e02"
+    },
+    {
+        "artist": "Tame Impala",
+        "album": "Deadbeat",
+        "date": "2025-10-17",
+        "cover": "https://m.media-amazon.com/images/I/71VntCVcmhL.jpg"
+    },
+    {
+        "artist": "The Black Dog",
+        "album": "Spanners",
+        "date": "1995-01-16",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/5f002284385a2c05acafc1f6bcad5003"
+    },
+    {
+        "artist": "Various",
+        "album": "mikgazer vol.1",
+        "date": "2012-04-28",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/c26a8a1bb0804d6eb9aa6f1634c2f5e2"
     }
 ]
