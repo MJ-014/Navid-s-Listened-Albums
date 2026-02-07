@@ -2950,5 +2950,614 @@
         "album": "Wish You Were Here",
         "date": "1975-09-12",
         "cover": "https://m.media-amazon.com/images/I/61JaCaOYudL.jpg"
+    },
+    {
+        "artist": "Aphex Twin",
+        "album": "...I Care Because You Do",
+        "date": "1995-04-24",
+        "cover": "https://m.media-amazon.com/images/I/61E+Rpxx4DL.jpg"
+    },
+    {
+        "artist": "Ben E. King",
+        "album": "Don't Play That Song",
+        "date": "1962-08-20",
+        "cover": "https://m.media-amazon.com/images/I/71uIUcipJSL.jpg"
+    },
+    {
+        "artist": "Caravan Palace",
+        "album": "<|°_°|>",
+        "date": "2015-10-16",
+        "cover": "https://m.media-amazon.com/images/I/71EilHQNtzL.jpg"
+    },
+    {
+        "artist": "clipping.",
+        "album": "Visions of Bodies Being Burned",
+        "date": "2020-10-23",
+        "cover": "https://m.media-amazon.com/images/I/71wLkDPNssL.jpg"
+    },
+    {
+        "artist": "Daft Punk",
+        "album": "Alive 1997",
+        "date": "2001-10-01",
+        "cover": "https://m.media-amazon.com/images/I/81K0Whs8SGL.jpg"
+    },
+    {
+        "artist": "Danger Doom",
+        "album": "The Mouse and the Mask",
+        "date": "2005-10-10",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/d96cc2ecc47e4849c8858e37d3854b84"
+    },
+    {
+        "artist": "Danny Brown",
+        "album": "Atrocity Exhibition",
+        "date": "2016-09-30",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/9ba68e74580ba6f3dadaee282f6231b3"
+    },
+    {
+        "artist": "DJ Mehdi",
+        "album": "The Story of Espion",
+        "date": "2002-05-28",
+        "cover": "https://m.media-amazon.com/images/I/71DAoejAwJL.jpg"
+    },
+    {
+        "artist": "DJ Mehdi",
+        "album": "Pocket Piano",
+        "date": "2008-12-08",
+        "cover": "https://m.media-amazon.com/images/I/81CevBVO-FL.jpg"
+    },
+    {
+        "artist": "Duran Duran",
+        "album": "FUTURE PAST",
+        "date": "2021-10-22",
+        "cover": "https://m.media-amazon.com/images/I/915wjOQAgCL.jpg"
+    },
+    {
+        "artist": "Electric Light Orchestra",
+        "album": "Out of the Blue",
+        "date": "1977-10-03",
+        "cover": "https://m.media-amazon.com/images/I/71vCLB7ghmL.jpg"
+    },
+    {
+        "artist": "Grandmaster Flash and the Furious Five",
+        "album": "The Message EP",
+        "date": "1982-10-03",
+        "cover": "https://m.media-amazon.com/images/I/81acCbB8qCL.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "album": "Savior",
+        "date": "2024-01-19",
+        "cover": "https://m.media-amazon.com/images/I/91T2XwyRClL.jpg"
+    },
+    {
+        "artist": "Kavinsky",
+        "album": "Nightcall",
+        "date": "2010-09-10",
+        "cover": "https://m.media-amazon.com/images/I/71+Jq8S-GdL.jpg"
+    },
+    {
+        "artist": "Kendrick Lamar",
+        "album": "To Pimp a Butterfly",
+        "date": "2015-03-15",
+        "cover": "https://m.media-amazon.com/images/I/81kQ21kX02L.jpg"
+    },
+    {
+        "artist": "Madonna",
+        "album": "Madonna",
+        "date": "1983-07-27",
+        "cover": "https://m.media-amazon.com/images/I/81hXRTWVaWL.jpg"
+    },
+    {
+        "artist": "MF DOOM",
+        "album": "Gazzillion Ear",
+        "date": "2009-12-06",
+        "cover": "https://m.media-amazon.com/images/I/71YkJGzKs8L.jpg"
+    },
+    {
+        "artist": "Molchat Doma",
+        "album": "Этажи",
+        "date": "2018-09-07",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/ad7772faa3029d2992b7717119d30ac7"
+    },
+    {
+        "artist": "M|O|O|N",
+        "album": "MOON E.P.",
+        "date": "2011-11-27",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/d64b9a6fd3469d2f77ebdc87f533b687"
+    },
+    {
+        "artist": "Mr. Flash",
+        "album": "Sonic Crusader",
+        "date": "2014-06-02",
+        "cover": "https://m.media-amazon.com/images/I/81K4t1CNwVL.jpg"
+    },
+    {
+        "artist": "N.W.A.",
+        "album": "Straight Outta Compton",
+        "date": "1989-01-25",
+        "cover": "https://m.media-amazon.com/images/I/714utK8zniL.jpg"
+    },
+    {
+        "artist": "NF",
+        "album": "HOPE",
+        "date": "2023-04-07",
+        "cover": "https://m.media-amazon.com/images/I/61kmRn8qHHL.jpg"
+    },
+    {
+        "artist": "Nine Inch Nails",
+        "album": "With Teeth",
+        "date": "2005-05-03",
+        "cover": "https://m.media-amazon.com/images/I/61OQ32voswL.jpg"
+    },
+    {
+        "artist": "Overseer",
+        "album": "Wreckage",
+        "date": "2003-08-26",
+        "cover": "https://m.media-amazon.com/images/I/71xMn0coWFL.jpg"
+    },
+    {
+        "artist": "Pink Floyd",
+        "album": "The Piper at the Gates of Dawn",
+        "date": "1967-08-05",
+        "cover": "https://m.media-amazon.com/images/I/81JtgQTuhlL.jpg"
+    },
+    {
+        "artist": "Radiohead",
+        "album": "Pablo Honey",
+        "date": "1993-02-22",
+        "cover": "https://m.media-amazon.com/images/I/916cgbiPniL.jpg"
+    },
+    {
+        "artist": "Radiohead",
+        "album": "The Bends",
+        "date": "1995-03-08",
+        "cover": "https://m.media-amazon.com/images/I/91n41seo1vL.jpg"
+    },
+    {
+        "artist": "Simian Mobile Disco",
+        "album": "Attack Decay Sustain Release",
+        "date": "2017-09-29",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/664c17a72f4e39178cd9f461fead4502"
+    },
+    {
+        "artist": "Siriusmo",
+        "album": "Pearls & Embarrassments: 2000-2010 (Vol. 1)",
+        "date": "2011-06-24",
+        "cover": "https://m.media-amazon.com/images/I/81zuM4dl3RL.jpg"
+    },
+    {
+        "artist": "Smash Mouth",
+        "album": "Astro Lounge",
+        "date": "1999-06-08",
+        "cover": "https://m.media-amazon.com/images/I/71IjTs5E7GL.jpg"
+    },
+    {
+        "artist": "Synrise",
+        "album": "GOOSE",
+        "date": "2010-10-18",
+        "cover": "https://m.media-amazon.com/images/I/71u2GI-oHIL.jpg"
+    },
+    {
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds",
+        "date": "1966-05-16",
+        "cover": "https://m.media-amazon.com/images/I/71I56fnj94L.jpg"
+    },
+    {
+        "artist": "The Chemical Brothers",
+        "album": "Dig Your Own Hole",
+        "date": "1997-04-07",
+        "cover": "https://m.media-amazon.com/images/I/61uDAZM4R0L.jpg"
+    },
+    {
+        "artist": "T-Square",
+        "album": "Adventures",
+        "date": "1984-04-01",
+        "cover": "https://m.media-amazon.com/images/I/61S78ZukAGL.jpg"
+    },
+    {
+        "artist": "VHS Head",
+        "album": "Phasia",
+        "date": "2023-11-13",
+        "cover": "https://m.media-amazon.com/images/I/71t-LdGviVL.jpg"
+    },
+    {
+        "artist": "Yuksek",
+        "album": "Away from the Sea",
+        "date": "2009-02-02",
+        "cover": "https://m.media-amazon.com/images/I/71237Lm60sL.jpg"
+    },
+    {
+        "artist": "Zaho de Sagazan",
+        "album": "La symphonie des éclairs",
+        "date": "2023-03-31",
+        "cover": "https://m.media-amazon.com/images/I/71EFuGpc7QL.jpg"
+    },
+        {
+        "artist": "ABBA",
+        "album": "Ring Ring",
+        "date": "1973-03-26",
+        "cover": "https://m.media-amazon.com/images/I/71oFiyLoDPL.jpg"
+    },
+    {
+        "artist": "ABBA",
+        "album": "Waterloo",
+        "date": "1974-03-04",
+        "cover": "https://m.media-amazon.com/images/I/81Eku+ui79L.jpg"
+    },
+    {
+        "artist": "ABBA",
+        "album": "ABBA",
+        "date": "1975-04-21",
+        "cover": "https://m.media-amazon.com/images/I/711f1owFhbL.jpg"
+    },
+    {
+        "artist": "ABBA",
+        "album": "Arrival",
+        "date": "1976-10-11",
+        "cover": "https://m.media-amazon.com/images/I/71DqcgoJ8mL.jpg"
+    },
+    {
+        "artist": "AC/DC",
+        "album": "Let There Be Rock",
+        "date": "1977-03-21",
+        "cover": "https://m.media-amazon.com/images/I/71PbrQtxYWL.jpg"
+    },
+    {
+
+        "artist": "AC/DC",
+        "album": "Highway To Hell",
+        "date": "1979-07-27",
+        "cover": "https://m.media-amazon.com/images/I/71K1+8Xc7vL.jpg"
+    },
+    {
+
+        "artist": "Aphex Twin",
+        "album": "Windowlicker",
+        "date": "1999-03-22",
+        "cover": "https://m.media-amazon.com/images/I/71PrASLblmL.jpg"
+    },
+    {
+
+        "artist": "Aps17",
+        "album": "ZIPCHASE FLOW",
+        "date": "2024-03-12",
+        "cover": "https://m.media-amazon.com/images/I/81Zy6NFClcL.jpg"
+    },
+    {
+
+        "artist": "Avril Lavigne",
+        "album": "Head Above Water",
+        "date": "2019-02-15",
+        "cover": "https://m.media-amazon.com/images/I/71NskVaeO5L.jpg"
+    },
+    {
+
+        "artist": "Avril Lavigne",
+        "album": "Love Sux",
+        "date": "2022-02-25",
+        "cover": "https://m.media-amazon.com/images/I/71zUDzbwh0L.jpg"
+    },
+    {
+
+        "artist": "Black Country, New Road",
+        "album": "Ants From Up There",
+        "date": "2022-02-04",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/3332b3cee5de8598dbd080f8e2783f93"
+    },
+    {
+
+        "artist": "Breakwater",
+        "album": "Splashdown",
+        "date": "1980-04-29",
+        "cover": "https://m.media-amazon.com/images/I/71LAE5KJCvL.jpg"
+    },
+    {
+
+        "artist": "Cheap Trick",
+        "album": "Cheap Trick",
+        "date": "1977-02-03",
+        "cover": "https://m.media-amazon.com/images/I/81Eadn84cTL.jpg"
+    },
+    {
+
+        "artist": "David Bowie",
+        "album": "David Bowie",
+        "date": "1967-06-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/7448b481e96b6070dd5ab7aa73e0a5bb"
+    },
+    {
+
+        "artist": "David Bowie",
+        "album": "The Man Who Sold the World",
+        "date": "1970-11-04",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/4356ad32202c5766aecb828b936afae6"
+    },
+    {
+
+        "artist": "Death Grips",
+        "album": "Year of the Snitch",
+        "date": "2018-06-22",
+        "cover": "https://m.media-amazon.com/images/I/61J8zBnir4L.jpg"
+    },
+    {
+
+        "artist": "Electric Light Orchestra",
+        "album": "A New World Record",
+        "date": "1976-09-11",
+        "cover": "https://m.media-amazon.com/images/I/71EmHrddx8L.jpg"
+    },
+    {
+
+        "artist": "Electric Light Orchestra",
+        "album": "Discovery",
+        "date": "1979-05-31",
+        "cover": "https://m.media-amazon.com/images/I/71VzEl4WVDL.jpg"
+    },
+    {
+
+        "artist": "Electric Light Orchestra",
+        "album": "Time",
+        "date": "1981-07-31",
+        "cover": "https://m.media-amazon.com/images/I/61koflFm-iL.jpg"
+    },
+    {
+
+        "artist": "Electric Light Orchestra",
+        "album": "Secret Messages",
+        "date": "1983-06-24",
+        "cover": "https://m.media-amazon.com/images/I/71cfPoX8hnL.jpg"
+    },
+    {
+
+        "artist": "Electric Light Orchestra",
+        "album": "Balance of Power",
+        "date": "1986-03-03",
+        "cover": "https://m.media-amazon.com/images/I/51VxwX3xdiL.jpg"
+    },
+    {
+
+        "artist": "Electric Light Orchestra",
+        "album": "Zoom",
+        "date": "2001-06-12",
+        "cover": "https://m.media-amazon.com/images/I/713FAbdmnXL.jpg"
+    },
+    {
+
+        "artist": "Femtanyl",
+        "album": "CHASER",
+        "date": "2023-09-07",
+        "cover": "https://m.media-amazon.com/images/I/71lcO4xsbvL.jpg"
+    },
+    {
+
+        "artist": "Galactic Hole",
+        "album": "Piracies Menu",
+        "date": "2023-02-02",
+        "cover": "https://f4.bcbits.com/img/a3027107931_0.jpg"
+    },
+    {
+
+        "artist": "Godspeed You! Black Emperor",
+        "album": "Lift Your Skinny Fists Like Antennas to Heaven",
+        "date": "2000-10-09",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/a6c272f896b1579be7ea3dd566d00e77"
+    },
+    {
+
+        "artist": "Justice",
+        "album": "Hyperdrama",
+        "date": "2024-04-26",
+        "cover": "https://m.media-amazon.com/images/I/61Rk1vQrdRL.jpg"
+    },
+    {
+
+        "artist": "Kate Bush",
+        "album": "Hounds of Love",
+        "date": "1985-01-01",
+        "cover": "https://m.media-amazon.com/images/I/71rARKjnqqL.jpg"
+    },
+    {
+
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin",
+        "date": "1969-01-13",
+        "cover": "https://m.media-amazon.com/images/I/81L+SWQe++L.jpg"
+    },
+    {
+
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin II",
+        "date": "1969-10-22",
+        "cover": "https://m.media-amazon.com/images/I/71Otw4r3ifL.jpg"
+    },
+    {
+
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin III",
+        "date": "1970-10-03",
+        "cover": "https://m.media-amazon.com/images/I/81VjVCiyu5L.jpg"
+    },
+    {
+
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin IV",
+        "date": "1971-11-08",
+        "cover": "https://m.media-amazon.com/images/I/81x364UAGAL.jpg"
+    },
+    {
+
+        "artist": "Lyn Collins",
+        "album": "Think (About It)",
+        "date": "1972-09-27",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/8783e285d242f836132e9638b40bcaaa"
+    },
+    {
+
+        "artist": "N.W.A",
+        "album": "100 Miles and Runnin'",
+        "date": "1990-08-14",
+        "cover": "https://m.media-amazon.com/images/I/81boIxfFcNL.jpg"
+    },
+    {
+
+        "artist": "N.W.A",
+        "album": "Efil4zaggin",
+        "date": "1991-05-28",
+        "cover": "https://m.media-amazon.com/images/I/81TOaUi2f7L.jpg"
+    },
+    {
+
+        "artist": "Neutral Milk Hotel",
+        "album": "In the Aeroplane Over the Sea",
+        "date": "2005-09-05",
+        "cover": "https://m.media-amazon.com/images/I/81VeNvD9s1L.jpg"
+    },
+    {
+
+        "artist": "Nirvana",
+        "album": "Bleach",
+        "date": "1989-06-15",
+        "cover": "https://m.media-amazon.com/images/I/81r8kvx-FcL.jpg"
+    },
+    {
+
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "date": "1991-09-24",
+        "cover": "https://m.media-amazon.com/images/I/71N1IYAhX-L.jpg"
+    },
+    {
+
+        "artist": "Nirvana",
+        "album": "Hormoaning",
+        "date": "1991-02-05",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/3d2c2adc9876483084104203e797370b"
+    },
+    {
+
+        "artist": "Nirvana",
+        "album": "In Utero",
+        "date": "1993-09-21",
+        "cover": "https://m.media-amazon.com/images/I/71WPk8O1dtL.jpg"
+    },
+    {
+
+        "artist": "Nirvana",
+        "album": "MTV Unplugged in New York",
+        "date": "1994-11-01",
+        "cover": "https://m.media-amazon.com/images/I/81My7wSiGTL.jpg"
+    },
+    {
+
+        "artist": "Pantera",
+        "album": "Vulgar Display of Power",
+        "date": "1992-2-25",
+        "cover": "https://m.media-amazon.com/images/I/91EoHjN1r6L.jpg"
+    },
+    {
+
+        "artist": "Pearl Jam",
+        "album": "Ten",
+        "date": "1991-08-27",
+        "cover": "https://m.media-amazon.com/images/I/818Vo4rKTNL.jpg"
+    },
+    {
+
+        "artist": "Pendulum",
+        "album": "Elemental",
+        "date": "2021-06-17",
+        "cover": "https://m.media-amazon.com/images/I/81oAmLdxsdL.jpg"
+    },
+    {
+
+        "artist": "Radiohead",
+        "album": "OK Computer",
+        "date": "1997-05-21",
+        "cover": "https://m.media-amazon.com/images/I/91eIIIfAlSL.jpg"
+    },
+    {
+
+        "artist": "Radiohead",
+        "album": "Kid A",
+        "date": "2000-10-02",
+        "cover": "https://m.media-amazon.com/images/I/91WwhnXOV3L.jpg"
+    },
+    {
+
+        "artist": "Radiohead",
+        "album": "Amnesiac",
+        "date": "2001-06-04",
+        "cover": "https://m.media-amazon.com/images/I/A1ZCvLJo3SL.jpg"
+    },
+    {
+
+        "artist": "Styx",
+        "album": "Kilroy Was Here",
+        "date": "1983-02-22",
+        "cover": "https://m.media-amazon.com/images/I/71xZoEm7ZTL.jpg"
+    },
+    {
+
+        "artist": "Swans",
+        "album": "Soundtracks for the Blind",
+        "date": "1996-10-22",
+        "cover": "https://m.media-amazon.com/images/I/A1mdHfDhjQL.jpg"
+    },
+    {
+
+        "artist": "The Winstons",
+        "album": "Color Him Father",
+        "date": "1969-08-01",
+        "cover": "https://m.media-amazon.com/images/I/71ZL0PTC+sL.jpg"
+    },
+    {
+
+        "artist": "TV Girl",
+        "album": "Our First 3 EPs",
+        "date": "2015-10-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/54ff8ddc2ae9477de68a7b3897ed4d53"
+    },
+    {
+
+        "artist": "TV Girl",
+        "album": "French Exit",
+        "date": "2014-06-05",
+        "cover": "https://m.media-amazon.com/images/I/71SPwdAnqAL.jpg"
+    },
+    {
+
+        "artist": "TV Girl",
+        "album": "Who Really Cares",
+        "date": "2016-02-26",
+        "cover": "https://m.media-amazon.com/images/I/61tkdmbYlwL.jpg"
+    },
+    {
+
+        "artist": "TV Girl",
+        "album": "Death of a Party Girl",
+        "date": "2018-05-10",
+        "cover": "https://m.media-amazon.com/images/I/81QCbZAhfZL.jpg"
+    },
+    {
+
+        "artist": "TV Girl",
+        "album": "The Night in Question: French Exit Outtakes",
+        "date": "2020-05-01",
+        "cover": "https://m.media-amazon.com/images/I/61pV0wQ3gKL.jpg"
+    },
+    {
+
+        "artist": "Venetian Snares",
+        "album": "Huge Chrome Cylinder Box Unfolding",
+        "date": "2004-05-10",
+        "cover": "https://m.media-amazon.com/images/I/71kSdgTT6QL.jpg"
+    },
+    {
+
+        "artist": "Venetian Snares",
+        "album": "Meathole",
+        "date": "2005-08-25",
+        "cover": "https://m.media-amazon.com/images/I/61khRHHpr7L.jpg"
     }
 ]
