@@ -2001,7 +2001,7 @@
         "artist": "SiIvaCraft",
         "album": "Volume Alpha Version & Beta Mix",
         "date": "2022-07-31",
-        "cover": "https://static.wikia.nocookie.net/siivagunner/images/9/98/SiIvaCraft_-_Volume_Alpha_Version_%26_Beta_Mix.png/revision/latest?cb=20220731191018"
+        "cover": "https://static.wikia.nocookie.net/siivagunner/images/9/98/SiIvaCraft_-_Volume_Alpha_Version_%26_Beta_Mix.png"
     },
     {
         "artist": "STAFFcirc",
@@ -4687,6 +4687,12 @@
     },
     {
         "artist": "Olivia Rodrigo",
+        "album": "SOUR",
+        "date": "2021-05-21",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/99d766eead60fe8fc2506620847f8eac"
+    },
+    {
+        "artist": "Olivia Rodrigo",
         "album": "GUTS",
         "date": "2023-09-08",
         "cover": "https://m.media-amazon.com/images/I/6157iEhJ26L.jpg"
@@ -4743,25 +4749,25 @@
         "artist": "Phoebe Bridgers",
         "album": "Stranger in the Alps",
         "date": "2017-09-22",
-        "cover": "https://lastfm.freetls.fastly.net/i/u/3470b9d4ff8e55d3f93a2bf823829bd4"
+        "cover": "https://f4.bcbits.com/img/a3164574832_6.jpg"
     },
     {
         "artist": "Phoebe Bridgers",
         "album": "Copycat Killer",
         "date": "2020-11-20",
-        "cover": "https://lastfm.freetls.fastly.net/i/u/098f4b7c4869a72ef44bf93ff0d9495a"
+        "cover": "https://f4.bcbits.com/img/a2478534498_6.jpg"
     },
     {
         "artist": "Phoebe Bridgers",
         "album": "Punisher",
         "date": "2020-06-19",
-        "cover": "https://lastfm.freetls.fastly.net/i/u/d5e48e5cdfc2624d66603f333ca5b47e"
+        "cover": "https://f4.bcbits.com/img/a1836607637_6.jpg"
     },
     {
         "artist": "Phoebe Bridgers",
         "album": "So Much Wine",
         "date": "2022-11-17",
-        "cover": "https://lastfm.freetls.fastly.net/i/u/1c706005bfc5666aa07bb4ac2f356eb5"
+        "cover": "https://f4.bcbits.com/img/a0128821953_6.jpg"
     },
     {
         "artist": "Pink Floyd",
