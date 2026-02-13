@@ -303,7 +303,7 @@
         "artist": "\"Weird Al\" Yankovic",
         "album": "\"Weird Al\" Yankovic",
         "date": "1983-04-26",
-        "cover": "https://m.media-amazon.com/images/I/91xWKBhhyGL.jpg"
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK5DLtDC20Y-Mdx0H4N2wgo8Sm7CvjOy69Kw&s"
     },
     {
         "artist": "\"Weird Al\" Yankovic",
@@ -585,7 +585,7 @@
         "artist": "Green Day",
         "album": "¡DOS!",
         "date": "2012-11-09",
-        "cover": "https://lastfm.freetls.fastly.net/i/u/ea2d74236d954f18b1df9897b8067ffa"
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Green_Day_-_Dos%21_cover.jpg/250px-Green_Day_-_Dos%21_cover.jpg"
     },
     {
         "artist": "Green Day",
@@ -1713,7 +1713,7 @@
         "artist": "Lemon Demon",
         "album": "Lemonic Demonade 2007",
         "date": "2007-07-29",
-        "cover": "https://lastfm.freetls.fastly.net/i/u/d8f544c844f6a04810090cc273616fe9"
+        "cover": "https://lastfm.freetls.fastly.net/i/u/300x300/d8f544c844f6a04810090cc273616fe9.jpg"
     },
     {
         "artist": "Lemon Demon",
@@ -1869,7 +1869,7 @@
         "artist": "Masayoshi Soken",
         "album": "Mario Basketball 3on3 Original Soundtrack",
         "date": "2006-10-18",
-        "cover": "https://media.vgm.io/albums/74/4247/4247-1169087725.jpg"
+        "cover": "https://mario.wiki.gallery/images/thumb/d/df/SQEX-10079_front.jpg/250px-SQEX-10079_front.jpg"
     },
     {
         "artist": "Various",
@@ -2379,7 +2379,7 @@
         "artist": "ONE OK ROCK",
         "album": "Luxury Disease",
         "date": "2022-09-09",
-        "cover": "https://m.media-amazon.com/images/I/81Yn6yAlcSL.jpg"
+        "cover": "https://i1.sndcdn.com/artworks-oQCLYrXLEvYT-0-t300x300.jpg"
     },
     {
         "artist": "Renard",
@@ -2521,9 +2521,9 @@
     },
     {
         "artist": "Various",
-        "album": "The Sound of Kirby Café",
+        "album": "The Sound of Kirby Café 2",
         "date": "2019-12-12",
-        "cover": "https://lastfm.freetls.fastly.net/i/u/8f62d890fdf586de4caa5a22913986d4"
+        "cover": "https://cdn.wikirby.com/thumb/7/7d/The_Sound_of_Kirby_Cafe_2_front_cover.png/300px-The_Sound_of_Kirby_Cafe_2_front_cover.png"
     },
     {
         "artist": "Various",
@@ -2913,13 +2913,13 @@
         "artist": "Death Grips",
         "album": "Live From Death Valley",
         "date": "2011-06-28",
-        "cover": "https://m.media-amazon.com/images/I/81Rmg7W0ZpL.jpg"
+        "cover": "https://upload.wikimedia.org/wikipedia/en/2/2d/Live_from_Death_Valley.png"
     },
     {
         "artist": "Death Grips",
         "album": "Steroids (Crouching Tiger Hidden Gabber Megamix)",
         "date": "2017-05-22",
-        "cover": "https://m.media-amazon.com/images/I/81iZ9F9q2KL.jpg"
+        "cover": "https://i1.sndcdn.com/artworks-000223854292-hgptko-t300x300.jpg"
     },
     {
         "artist": "Kendrick Lamar",
@@ -3051,7 +3051,7 @@
         "artist": "Green Day",
         "album": "Savior",
         "date": "2024-01-19",
-        "cover": "https://m.media-amazon.com/images/I/91T2XwyRClL.jpg"
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Green_Day_-_Saviors.png/250px-Green_Day_-_Saviors.png"
     },
     {
         "artist": "Kavinsky",
@@ -3381,7 +3381,7 @@
         "artist": "Led Zeppelin",
         "album": "Led Zeppelin IV",
         "date": "1971-11-08",
-        "cover": "https://m.media-amazon.com/images/I/81x364UAGAL.jpg"
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zeppelin_IV.jpg/250px-Zeppelin_IV.jpg"
     },
     {
         "artist": "Lyn Collins",
@@ -3993,7 +3993,7 @@
         "artist": "Guns N' Roses",
         "album": "“The Spaghetti Incident?!”",
         "date": "1993-11-23",
-        "cover": "https://m.media-amazon.com/images/I/81dFehaX0+L.jpg"
+        "cover": "https://upload.wikimedia.org/wikipedia/en/9/94/Guns_n%27_Roses%3B_Spaghetti_Incident%3F_cover.jpg"
     },
     {
         "artist": "Guns N' Roses",
@@ -4269,7 +4269,7 @@
         "artist": "The Doors",
         "album": "Strange Days",
         "date": "1967-09-25",
-        "cover": "https://lastfm.freetls.fastly.net/i/u/e05182fa6856e132b02c9e1d31ce0b96"
+        "cover": "https://upload.wikimedia.org/wikipedia/en/f/fc/AlbumStrangeDays.jpg"
     },
     {
         "artist": "Tyler, the Creator",
@@ -5043,7 +5043,7 @@
         "artist": "Let's Eat Grandma",
         "album": "I, Gemini",
         "date": "2016-06-17",
-        "cover": "https://lastfm.freetls.fastly.net/i/u/80debd201cf764ae03c6bfc3de14ae9e"
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Let%27s_Eat_Grandma_-_I%2C_Gemini.png/250px-Let%27s_Eat_Grandma_-_I%2C_Gemini.png"
     },
     {
         "artist": "Let's Eat Grandma",
