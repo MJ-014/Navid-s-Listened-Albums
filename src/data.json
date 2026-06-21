@@ -6700,5 +6700,11 @@
         "album": "Fear Inoculum",
         "date": "2019-08-30",
         "cover": "https://i1.sndcdn.com/artworks-3c268461-b21c-4df7-886f-ae39567016da-0-t300x300.jpg"
+    },
+    {
+        "artist": "Various",
+        "album": "Willy Wonka & The Chocolate Factory",
+        "date": "1971-01-01",
+        "cover": "https://i1.sndcdn.com/artworks-506cb760-c094-41f8-868d-bc1003a7c43f-0-t300x300.jpg"
     }
 ]
