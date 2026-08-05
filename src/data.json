@@ -6706,5 +6706,119 @@
         "album": "Willy Wonka & The Chocolate Factory",
         "date": "1971-01-01",
         "cover": "https://i1.sndcdn.com/artworks-506cb760-c094-41f8-868d-bc1003a7c43f-0-t300x300.jpg"
+    },
+    {
+        "artist": "Various Artists",
+        "album": "The Wizard of Oz: Original Motion Picture Soundtrack",
+        "date": "1995-07-18",
+        "cover": "https://i1.sndcdn.com/artworks-da2357b5-fdab-4818-af58-bc49976f04ea-0-t300x300.jpg"
+    },
+    {
+        "artist": "Various Artists",
+        "album": "Phineas and Ferb",
+        "date": "2009-09-22",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/ab90af0e8450453f9e815a6bd564421c"
+    },
+    {
+        "artist": "Various",
+        "album": "The Rocky Horror Picture Show",
+        "date": "1975-01-01",
+        "cover": "https://i1.sndcdn.com/artworks-000003350100-viq37b-t300x300.jpg"
+    },
+    {
+        "artist": "Angelo Badalamenti",
+        "album": "Music from Twin Peaks",
+        "date": "1990-09-11",
+        "cover": "https://i1.sndcdn.com/artworks-534bf3a3-9b62-48ba-9172-ace960c4e6de-0-t300x300.jpg"
+    },
+    {
+        "artist": "John C. Reilly",
+        "album": "Walk Hard: The Dewey Cox Story",
+        "date": "2007-12-07",
+        "cover": "https://i1.sndcdn.com/artworks-daf4d353-cf32-41d4-a0c7-8b872e16a4d2-0-t300x300.jpg"
+    },
+    {
+        "artist": "Washed Out",
+        "album": "Life of Leisure",
+        "date": "2009-08-26",
+        "cover": "https://f4.bcbits.com/img/a4264163757_6.jpg"
+    },
+    {
+        "artist": "Dälek",
+        "album": "From Filthy Tongue of Gods and Griots",
+        "date": "2002-08-06",
+        "cover": "https://f4.bcbits.com/img/a0337770161_6.jpg"
+    },
+    {
+        "artist": "Oneohtrix Point Never",
+        "album": "R Plus Seven",
+        "date": "2013-09-30",
+        "cover": "https://f4.bcbits.com/img/a3087548910_6.jpg"
+    },
+    {
+        "artist": "Christ.",
+        "album": "Yugo 77",
+        "date": "1998-01-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/3d4e377c79604ae792b9b20e817b19d5"
+    },
+    {
+        "artist": "Skinny Puppy",
+        "album": "Vivisect VI",
+        "date": "1988-04-28",
+        "cover": "https://m.media-amazon.com/images/I/61h74CExVqL.jpg"
+    },
+    {
+        "artist": "Yabujin",
+        "album": "Early Works Bootleg",
+        "date": "2024-04-30",
+        "cover": ""
+    },
+    {
+        "artist": "Skinny Puppy",
+        "album": "Too Dark Park",
+        "date": "1990-10-25",
+        "cover": "https://f4.bcbits.com/img/a0857257406_6.jpg"
+    },
+    {
+        "artist": "Oneohtrix Point Never",
+        "album": "Garden of Delete",
+        "date": "2015-11-13",
+        "cover": "https://f4.bcbits.com/img/a2144173798_6.jpg"
+    },
+    {
+        "artist": "Squarepusher",
+        "album": "Hard Normal Daddy",
+        "date": "1997-04-28",
+        "cover": "https://f4.bcbits.com/img/a1296597700_6.jpg"
+    },
+    {
+        "artist": "Techno Animal",
+        "album": "The Brotherhood of the Bomb",
+        "date": "2001-09-11",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/2aef9f2085f798ba157ce5f95a772802"
+    },
+    {
+        "artist": "Psykovsky",
+        "album": "Da Budet",
+        "date": "2009-01-16",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/89dcbd934b757b4f8c6c3b0853a10b62"
+    },
+    {
+        "artist": "James Ferraro",
+        "album": "Last American Hero (2010 Version)",
+        "date": "2010-03-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/69f5cf583caa449a83f38075e6b7781f"
+    },
+    {
+        "artist": "The KLF",
+        "album": "Chill Out",
+        "date": "1990-02-05",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/2d1aa07c219bf46a514e8237295e1178"
+    },
+    {
+        "artist": "Hank & Slim",
+        "album": "The World Turned Gingham",
+        "date": "2000-01-01",
+        "cover": "f4.bcbits.com/img/a1772797436_6.jpg"
     }
 ]
