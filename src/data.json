@@ -6820,5 +6820,125 @@
         "album": "The World Turned Gingham",
         "date": "2000-01-01",
         "cover": "f4.bcbits.com/img/a1772797436_6.jpg"
+    },
+    {
+        "artist": "Björk",
+        "album": "Debut",
+        "date": "1993-07-05",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/8087bf564a37396e7616ef587c231a29"
+    },
+    {
+        "artist": "Björk",
+        "album": "Post",
+        "date": "1995-06-15",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e2c4480bd9a64ca49fafdb2c0f3ea4cc"
+    },
+    {
+        "artist": "Björk",
+        "album": "Homogenic",
+        "date": "1997-09-22",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e7c17ed709a0fe97fa881f5a24ee904a"
+    },
+    {
+        "artist": "Björk",
+        "album": "Vespertine",
+        "date": "2001-08-27",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/f0956af1133c4b8cb2be5cb4eecd385e"
+    },
+    {
+        "artist": "Various Artists",
+        "album": "Project Since I Left You",
+        "date": "2026-08-21",
+        "cover": "https://f4.bcbits.com/img/a3773357032_6.jpg"
+    },
+    {
+        "artist": "David Bowie",
+        "album": "Hunky Dory",
+        "date": "1971-12-17",
+        "cover": "https://i1.sndcdn.com/artworks-28f6a197-6e1f-4f8b-8459-44159fe38683-0-t300x300.jpg"
+    },
+    {
+        "artist": "David Bowie",
+        "album": "The Rise and Fall of Ziggy Stardust and The Spiders From Mars",
+        "date": "1972-06-16",
+        "cover": "https://i1.sndcdn.com/artworks-000025813415-9u6g9f-t300x300.jpg"
+    },
+    {
+        "artist": "David Bowie",
+        "album": "Aladdin Sane",
+        "date": "1973-04-19",
+        "cover": "https://i1.sndcdn.com/artworks-fa3ac94c-77d8-4317-bd41-fc6aff8652ac-0-t300x300.jpg"
+    },
+    {
+        "artist": "Mayhem",
+        "album": "Out from the Dark",
+        "date": "1996-01-01",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/e45b60ce57c90bdbf344ea38d9121879"
+    },
+    {
+        "artist": "Acid Bath",
+        "album": "Paegan Terrorism Tactics",
+        "date": "1996-11-12",
+        "cover": "https://i1.sndcdn.com/artworks-05e0db2a-2eca-4731-96c9-eef06e3e536c-0-t300x300.jpg"
+    },
+    {
+        "artist": "Darkthrone",
+        "album": "A Blaze in the Northern Sky",
+        "date": "1992-02-26",
+        "cover": "https://i1.sndcdn.com/artworks-dcffd205-5206-4e34-ad36-9f8b18ae5491-0-t300x300.jpg"
+    },
+    {
+        "artist": "Slipknot",
+        "album": "Mate. Feed. Kill. Repeat.",
+        "date": "1996-10-31",
+        "cover": "https://i1.sndcdn.com/artworks-dtDmqyEU0B9BjByB-yG48jA-t300x300.jpg"
+    },
+    {
+        "artist": "Slipknot",
+        "album": "Iowa",
+        "date": "2001-08-28",
+        "cover": "https://i1.sndcdn.com/artworks-0175555b-7db2-4e62-8273-9d23e39a5bdb-0-t300x300.jpg"
+    },
+    {
+        "artist": "Slipknot",
+        "album": "Vol. 3: (The Subliminal Verses)",
+        "date": "2004-05-25",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/6ccb89a3be354f0a8658b90df2e782c6"
+    },
+    {
+        "artist": "Murmuüre",
+        "album": "Murmuüre",
+        "date": "2010-03-31",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/937c42239633c3106f3299edd7c20da6"
+    },
+    {
+        "artist": "Cryptopsy",
+        "album": "Blasphemy Made Flesh",
+        "date": "1994-11-25",
+        "cover": "https://f4.bcbits.com/img/a1101171471_6.jpg"
+    },
+    {
+        "artist": "Cryptopsy",
+        "album": "None So Vile",
+        "date": "1996-07-03",
+        "cover": "https://f4.bcbits.com/img/a2074649513_6.jpg"
+    },
+    {
+        "artist": "Nails",
+        "album": "Unsilent Death",
+        "date": "2010-03-12",
+        "cover": "https://f4.bcbits.com/img/a4141061396_6.jpg"
+    },
+    {
+        "artist": "Down",
+        "album": "NOLA",
+        "date": "1995-09-19",
+        "cover": "https://i1.sndcdn.com/artworks-1d64080c-baf0-4799-9dc6-9b9635800d17-0-t300x300.jpg"
+    },
+    {
+        "artist": "Crowbar",
+        "album": "Sonic Excess in Its Purest Form",
+        "date": "2001-08-21",
+        "cover": "https://i1.sndcdn.com/artworks-4a1d518e-9abc-4781-bf76-b4232c4d8b39-0-t300x300.jpg"
     }
 ]
