@@ -1214,7 +1214,7 @@
     {
         "artist": "The Beatles",
         "album": "Rubber Soul",
-        "date": "1992-12-03",
+        "date": "1965-12-03",
         "cover": "https://m.media-amazon.com/images/I/71D25suENKL.jpg"
     },
     {
@@ -6946,5 +6946,65 @@
         "album": "SLOWHOLE",
         "date": "2024-10-04",
         "cover": "https://f4.bcbits.com/img/a2182790033_6.jpg"
+    },
+    {
+        "artist": "Madonna",
+        "album": "Like a Virgin",
+        "date": "1984-11-12",
+        "cover": "https://i1.sndcdn.com/artworks-f9cf7fc2-e1fd-484e-b5eb-074d525b5320-0-t300x300.jpg"
+    },
+    {
+        "artist": "Madonna",
+        "album": "True Blue",
+        "date": "1986-06-30",
+        "cover": "https://i1.sndcdn.com/artworks-419ad79d-1784-4792-ace5-1319bccca16b-0-t300x300.jpg"
+    },
+    {
+        "artist": "Madonna",
+        "album": "Like a Prayer",
+        "date": "1989-03-21",
+        "cover": "https://i1.sndcdn.com/artworks-84e348a0-eeb4-46a5-bb7a-4c442dfd8429-0-t300x300.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "Please Please Me",
+        "date": "1963-03-22",
+        "cover": "https://i1.sndcdn.com/artworks-778ff611-d9e9-49b2-8436-382267b52103-0-t300x300.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "date": "1963-11-22",
+        "cover": "https://i1.sndcdn.com/artworks-86263f11-09ea-45d7-a765-95c1b58cccae-0-t300x300.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "Beatles for Sale",
+        "date": "1964-12-04",
+        "cover": "https://i1.sndcdn.com/artworks-fdf790b6-7a8e-45ff-9561-1c7f5b291d59-0-t300x300.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "Magical Mystery Tour",
+        "date": "1967-11-27",
+        "cover": "https://i1.sndcdn.com/artworks-9ea18acc-ecc2-45e5-b1fb-3523c9ecd351-0-t300x300.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "The Beatles [White Album]",
+        "date": "1968-11-22",
+        "cover": "https://i1.sndcdn.com/artworks-000011330866-t8qr8o-t300x300.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "Yellow Submarine",
+        "date": "1969-01-13",
+        "cover": "https://i1.sndcdn.com/artworks-07ec9398-e5ff-4a2b-ada2-ebdd3f6b8391-0-t300x300.jpg"
+    },
+    {
+        "artist": "The Beatles",
+        "album": "Let It Be",
+        "date": "1970-05-18",
+        "cover": "https://i1.sndcdn.com/artworks-2eac873b-322a-4710-8b47-51e9269c94a0-0-t300x300.jpg"
     }
 ]
